@@ -1,0 +1,41 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Program"
+    url: /program/
+  - title: "Group Sessions"
+    url: /groups/
+  - title: "Venue"
+    url: /venue/
+
+docs:    
+  - title: Home
+    url: /
+
+  - title: Event
+    children:
+    - title: Program
+      url: /program/
+    - title: Invited Speakers
+      url: /invited/
+    - title: Group Sessions
+      url: /groups/
+    - title: Contact
+      url: /#contact-information
+        
+  - title: Registration
+    url: /registration/
+
+  - title: Practical Information
+    children:
+    - title: Venue
+      url: /venue/
+    - title: Accommodation
+      url: /accommodation/
+    - title: Travel info
+      url: /travel/
+
+
+  - title: Previous Workshops 
+    url: "https://askworkshop.github.io/ask/"
+
