@@ -9,6 +9,6 @@ sidebar:
     nav: "docs"
 ---
 
-# VISA for Japan
+# VISA for China
 
-Please find all the details for an getting a VISA [here](https://www.sg.emb-japan.go.jp/itpr_en/visit.html) 
+Please find all the details for getting a VISA at this adresse TODO
