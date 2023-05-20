@@ -12,3 +12,4 @@ sidebar:
 # Sponsors
 
 We are very grateful to the following organizations who generously sponsored the event.
+![SJTU-HAINAN BLOCKCHAIN RESEARCH INSTITUTE](/assets/images/sjtu.png)
