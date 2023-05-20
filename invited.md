@@ -8,6 +8,7 @@ sidebar:
     image_alt: "image"
     nav: "docs"
 ---
+
 # Invited Speakers
 
 To be announced ...
