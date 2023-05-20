@@ -9,7 +9,7 @@ sidebar:
     nav: "docs"
 ---
 
-To be announced...
+To be announced ...
 
 <!-- # Confirmed Invited Speakers (@Room: 720)
 ### invited talk1 (9:30 ~ 11:00 on Dec 13th)
