@@ -9,9 +9,11 @@ sidebar:
     nav: "docs"
 ---
 
+
+# Group Sessions
+
 To be announced ...
-<!-- # Group Sessions
-Groups and members of each group are as follows.
+<!-- Groups and members of each group are as follows.
 
 ### Group A-1 (@Room 513): Cryptanalysis 1 
 ---
@@ -73,4 +75,5 @@ Groups and members of each group are as follows.
 - Yunwen Liu
 - Akinori Hosoyamada
 - Carlos Cid
-- Siang Meng Sim -->
+- Siang Meng Sim
+ -->
