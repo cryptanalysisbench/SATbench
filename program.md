@@ -14,6 +14,8 @@ sidebar:
 
 <!--You can find [here](https://www.google.com) a pdf version of the program.-->
 
+To be announced ...
+<!-- 
 ---
 ## Friday, 13th December 2019
 
@@ -107,4 +109,5 @@ sidebar:
 *15:30 - 16:00*: Coffee break  @Room: 512   
 *16:00 - 17:00*: Wrap up   @Room: 720   
 
----
+--- 
+-->
