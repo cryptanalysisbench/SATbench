@@ -13,9 +13,9 @@ sidebar:
 # Group Sessions
 
 To be announced ...
-<!-- Groups and members of each group are as follows.
+<!-- Groups and members of each group are as follows. -->
 
-### Group A-1 (@Room 513): Cryptanalysis 1 
+<!-- ### Group A-1 (@Room 513): Cryptanalysis 1 
 ---
 - Orr Dunkelman
 - Subhadeep Banik
@@ -25,9 +25,9 @@ To be announced ...
 - Li Yang
 - Kazuo Sakiyama
 - Jing Yang
-- Christian Rechberger
+- Christian Rechberger -->
 
-### Group A-2 (@Room 503): Cryptanalysis 2
+<!-- ### Group A-2 (@Room 503): Cryptanalysis 2
 ---
 - Patrick Derbez
 - Willi Meier
@@ -37,9 +37,9 @@ To be announced ...
 - Reinhard Lüftenegger
 - Zejun Xiang
 - Lingchen Li
-- Siwei Chen
+- Siwei Chen -->
 
-### Group A-3(@Room: 504): Cryptanalysis 3
+<!-- ### Group A-3(@Room: 504): Cryptanalysis 3
 ---
 - Dhiman Saha
 - Siwei Sun
@@ -48,9 +48,9 @@ To be announced ...
 - Yingjie Zhang
 - Yi Zhang
 - Yu Sasaki
-- Quan Quan Tan
+- Quan Quan Tan -->
 
-### Group B: Primitive design (@Room: 505): block ciphers, stream ciphers, hash functions, (cryptographic) permutations
+<!-- ### Group B: Primitive design (@Room: 505): block ciphers, stream ciphers, hash functions, (cryptographic) permutations
 ---
 - Rei Ueno
 - Yongzhuang Wei
@@ -58,9 +58,9 @@ To be announced ...
 - Bing Sun
 - Thomas Peyrin
 - Kazumaro Aoki
-- Gaoli Wang
+- Gaoli Wang -->
 
-### Group C (@Room: 502): Design and analysis of mode of operation
+<!-- ### Group C (@Room: 502): Design and analysis of mode of operation
 ---
 - Kazuhiko Minematsu
 - Yusuke Naito
@@ -68,12 +68,12 @@ To be announced ...
 - Jooyoung Lee
 - Wonseok Choi
 - Byeonghak Lee
-- Eik List
+- Eik List -->
 
-### Group D (@Room: 501): (Post)-Quantum symmetric-key schemes
+<!-- ### Group D (@Room: 501): (Post)-Quantum symmetric-key schemes
 ---
 - Yunwen Liu
 - Akinori Hosoyamada
 - Carlos Cid
-- Siang Meng Sim
- -->
+- Siang Meng Sim -->
+
