@@ -9,9 +9,9 @@ sidebar:
     nav: "docs"
 ---
 
+To be announced...
 
-
-# Confirmed Invited Speakers (@Room: 720)
+<!-- # Confirmed Invited Speakers (@Room: 720)
 ### invited talk1 (9:30 ~ 11:00 on Dec 13th)
 ---
 - Kazuo Sakiyama (The University of Electro-Communications, Japan),
@@ -60,4 +60,4 @@ sidebar:
 - Yusuke Naito (Mitsubishi Corporation, Japan),
   "Design of Optimally Indifferentiable-Secure Double-Block-Length Hashing"
 - Mustafa Khairallah (Nanyang Technological University, Singapore),
-  "Lightweight TBC-Based Modes for Small Hardware Implementations"
+  "Lightweight TBC-Based Modes for Small Hardware Implementations" -->
