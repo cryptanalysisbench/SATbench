@@ -16,7 +16,6 @@ sidebar:
 
 To be announced ...
 <!-- 
----
 ## Friday, 13th December 2019
 
 *09:00 - 09:30*: Registration  
@@ -109,5 +108,4 @@ To be announced ...
 *15:30 - 16:00*: Coffee break  @Room: 512   
 *16:00 - 17:00*: Wrap up   @Room: 720   
 
---- 
 -->
