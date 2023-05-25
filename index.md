@@ -29,7 +29,7 @@ You can find previous ASK workshops [here](https://askworkshop.github.io/ask/)
 The general co-chairs can be contacted by email at ask2023(at)googlegroups(dot)com
 
 ## General & Program Chairs
-<ul> Yaobin Shen and Ling Song
+<ul>
 <li>Yaobin Shen(Université catholique de Louvain)</li>
 <li>Ling Song(Jinan University, China)</li>
 </ul>
