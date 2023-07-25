@@ -7,16 +7,17 @@ sidebar:
     image: /assets/images/logo.png
     image_alt: "image"
     nav: "docs"
-    
-gallery:
-  - url: /assets/images/sjtu.png
-    image_path: /assets/images/sjtu.png
-    alt: "SJTU-HAINAN BLOCKCHAIN RESEARCH INSTITUTE"
-    title: "SJTU-HAINAN BLOCKCHAIN RESEARCH INSTITUTE"
+header:
+  overlay_image:
+  overlay_filter: 1
+  teaser:
+
 ---
 
 # Sponsors
+We are very grateful to the following organizations who generously sponsored the event.
 
-<!-- We are very grateful to the following organizations who generously sponsored the event. -->
+{% include figure image_path="/assets/images/sjtu.png" alt="SJTU-HAINAN BLOCKCHAIN RESEARCH INSTITUTE" caption="SJTU-HAINAN BLOCKCHAIN RESEARCH INSTITUTE" %}
+{% include figure image_path="/assets/images/nnsfc.png" alt="Image 2" caption="图片 2" %}
 
-{% include gallery caption="We are very grateful to the following organizations who generously sponsored the event." %}
+
