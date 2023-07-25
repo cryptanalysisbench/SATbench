@@ -15,11 +15,11 @@ We are very grateful to the following organizations who generously sponsored the
 <div style="display: flex; justify-content: center;">
   <!-- 第一行图片 -->
   <div style="flex: 1;">
-    <img src="https://askworkshop.github.io/ask2023/assets/images/nnsfc.png" alt="NATIONAL NATURAL SCIENCE FOUNDATION OF CHINA" style="width: 300px;">
+    <img src="https://askworkshop.github.io/ask2023/assets/images/nnsfc.png" alt="NATIONAL NATURAL SCIENCE FOUNDATION OF CHINA" style="width: 300px; justify-content: center;">
     <p>NATIONAL NATURAL SCIENCE FOUNDATION OF CHINA</p>
   </div>
   <div style="flex: 1;">
-    <img src="https://askworkshop.github.io/ask2023/assets/images/sjtu.png" alt="SJTU-HAINAN BLOCKCHAIN RESEARCH INSTITUTE" style="width: 300px;">
+    <img src="https://askworkshop.github.io/ask2023/assets/images/sjtu.png" alt="SJTU-HAINAN BLOCKCHAIN RESEARCH INSTITUTE" style="width: 300px; justify-content: center;">
     <p>SJTU-HAINAN BLOCKCHAIN RESEARCH INSTITUTE</p>
   </div>
 </div>
