@@ -12,12 +12,7 @@ sidebar:
 # Sponsors
 We are very grateful to the following organizations who generously sponsored the event.
 
-<div style="display: flex; justify-content: center;">
-  <!-- 第一行图片 -->
-  <div style="flex: 1;">
-    <img src="https://askworkshop.github.io/ask2023/assets/images/nnsfc.png" alt="NATIONAL NATURAL SCIENCE FOUNDATION OF CHINA" style="width: 100px; justify-content: center;">
-  </div>
-  <div style="flex: 1;">
-    <img src="https://askworkshop.github.io/ask2023/assets/images/sjtu.png" alt="SJTU-HAINAN BLOCKCHAIN RESEARCH INSTITUTE" style="width: 100px; justify-content: center;">
-  </div>
-</div>
+{% include gallery layout="row" caption="Sponsors List" %}
+![NATIONAL NATURAL SCIENCE FOUNDATION OF CHINA](/assets/images/nnsfc.png){: width="100px" }
+![SJTU-HAINAN BLOCKCHAIN RESEARCH INSTITUTE](/assets/images/sjtu.png){: width="100px" }
+
