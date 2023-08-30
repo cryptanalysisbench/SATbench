@@ -5,7 +5,7 @@ main:
     url: /program/
   - title: "Group Sessions"
     url: /groups/
-  - title: "Venue&Travel"
+  - title: "Venue"
     url: /travel/
 
 docs:    
