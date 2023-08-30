@@ -25,7 +25,7 @@ We recommend two ways to get to Guangzhou. One is to take a plane to Guangzhou B
 ### From Guangzhou Baiyun International Airport
 #### By Metro
 1. Go to Terminal 1 or 2, and enter Airport S. Station of Guangzhou Metro Line 3 (The north extension line).
-2. Transfer to Line 3 at Tiyu Xilu Station towards Gangding Railway Station.
+2. Transfer to Line 3 at Tiyu Xilu Station towards Gangding Station.
 3. Get off at Gangding Railway Station from Exit D, then walk east for about 700 meters, the school is on your right (south) side.
 
 This journey may take about an hour. Please check the local metro schedule and plan accordingly. It will cost around 7 CNY (about 0.97 USD or 0.89 EUR).
@@ -35,7 +35,7 @@ This is the fastest way (about 45 minutes) and will cost around 100 CNY (about 1
 #### From the Guangzhou East Railway Station
 #### By Metro
 1. Enter Guangzhou East Railway Station of Guangzhou Metro Line 3 (The north extension line).
-2. Transfer to Line 3 at Tiyu Xilu Station towards Gangding Railway Station.
+2. Transfer to Line 3 at Tiyu Xilu Station towards Gangding Station.
 3. Get off at Gangding Railway Station from Exit D, then walk east for about 700 meters, the school is on your right (south) side.
 
 This journey may take about 20 minutes. Please check the local metro schedule and plan accordingly. It will cost around 3 CNY (about 0.41 USD or 0.38 EUR).
@@ -44,7 +44,7 @@ This is the fastest way (about 23 minutes) and will cost around 30 CNY (about 4.
 #### From the Guangzhou South Railway Station
 #### By Metro
 1. Enter Guangzhou South Railway Station of Guangzhou Metro Line 7.
-2. Transfer to Line 3 at Hanxi Changlong Station towards Gangding Railway Station.
+2. Transfer to Line 3 at Hanxi Changlong Station towards Gangding Station.
 3. Get off at Gangding Railway Station from Exit D, then walk east for about 700 meters, the school is on your right (south) side.
 
 This journey may take about 55 minutes. Please check the local metro schedule and plan accordingly. It will cost around 6 CNY (about 0.82 USD or 0.76 EUR).
