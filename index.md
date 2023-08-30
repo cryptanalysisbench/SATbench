@@ -22,12 +22,12 @@ ASK has been held to promote research on symmetric-key cryptography in Asia sinc
 
 The program will contain mainly two parts: **invited talks** in the mornings, and **group discussions** in the afternoons. For group discussions, we plan to have several small groups, and for each group, we aim to gather researchers who are all interested in one specific topic. The goal of the group discussion is to advance the collaborations within the research community, and to find new results through discussions.
 
-You can find previous ASK workshops [here](https://askworkshop.github.io/ask/)
+You can find previous ASK workshops [here](https://askworkshop.github.io/ask/).
 
 
 # Contact information
 
-The general co-chairs can be contacted by email at ask2023(at)googlegroups(dot)com
+The general co-chairs can be contacted by email at ask2023(at)googlegroups(dot)com.
 
 ## General & Program Chairs
 <ul>
