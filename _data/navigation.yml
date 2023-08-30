@@ -32,10 +32,11 @@ docs:
     children:
 #    - title: Venue
 #      url: /venue/
-    - title: Accommodation
-      url: /accommodation/
     - title: Venue and Travel
       url: /travel/
+    - title: Accommodation
+      url: /accommodation/
+
 
 
   - title: Previous Workshops 
