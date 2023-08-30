@@ -30,7 +30,7 @@ We recommend two ways to get to Guangzhou. One is to take a plane to Guangzhou B
 
 This journey may take about an hour. Please check the local metro schedule and plan accordingly. It will cost around 7 CNY (about 0.97 USD or 0.89 EUR).
 #### By Taxi
-This is the fastest way (about 45 minutes) and will cost around 100 CNY (about 13.80 USD or 12.69 EUR). Show the taxi driver the following paragraph: 广东省广州市天河区黄埔大道西601号暨南大学（石牌校区）
+This is the fastest way (about 45 minutes) and will cost around 150 CNY (about 20.58 USD or 18.94 EUR). Show the taxi driver the following paragraph: 广东省广州市天河区黄埔大道西601号暨南大学（石牌校区）
 ### From Guangzhou Railway Station
 #### From the Guangzhou East Railway Station
 #### By Metro
@@ -38,9 +38,9 @@ This is the fastest way (about 45 minutes) and will cost around 100 CNY (about 1
 2. Transfer to Line 3 at Tiyu Xilu Station towards Gangding Station.
 3. Get off at Gangding Railway Station from Exit D, then walk east for about 700 meters, the school is on your right (south) side.
 
-This journey may take about 20 minutes. Please check the local metro schedule and plan accordingly. It will cost around 3 CNY (about 0.41 USD or 0.38 EUR).
+This journey may take about 25 minutes. Please check the local metro schedule and plan accordingly. It will cost around 3 CNY (about 0.41 USD or 0.38 EUR).
 #### By Taxi
-This is the fastest way (about 23 minutes) and will cost around 30 CNY (about 4.12 USD or 3.79 EUR). Show the taxi driver the following paragraph: 广东省广州市天河区黄埔大道西601号暨南大学（石牌校区）
+This is the fastest way (about 20 minutes) and will cost around 30 CNY (about 4.12 USD or 3.79 EUR). Show the taxi driver the following paragraph: 广东省广州市天河区黄埔大道西601号暨南大学（石牌校区）
 #### From the Guangzhou South Railway Station
 #### By Metro
 1. Enter Guangzhou South Railway Station of Guangzhou Metro Line 7.
