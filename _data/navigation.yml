@@ -30,11 +30,11 @@ docs:
 
   - title: Practical Information
     children:
-    - title: Venue
-      url: /venue/
+#    - title: Venue
+#      url: /venue/
     - title: Accommodation
       url: /accommodation/
-    - title: Travel info
+    - title: Venue and Travel
       url: /travel/
 
 
