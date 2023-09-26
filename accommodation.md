@@ -39,11 +39,7 @@ The ASK 2023 venue is different from the [ASIACRYPT 2023](https://asiacrypt.iacr
 			<td style="border: 2px #000000 solid"><ul><li>Standard room 450￥ for one person and 500￥ for two persons</li><li>Big bed room 450￥ for one person</li></ul></td>
 			<td style="border: 2px #000000 solid">About 700￥ per night</td>
 		</tr>
-		<tr>
-			<td style="border: 2px #000000 solid">Cell 1x4</td>
-			<td style="border: 2px #000000 solid">Cell 2x4</td>
-			<td style="border: 2px #000000 solid">Cell 3x4</td>
-		</tr>
+
 	</tbody>
 </table>
 <!-- The ASK 2019 venue is very close to the [ASIACRYPT 2019](https://asiacrypt.iacr.org/2019/) venue, so you can use the same accomodation for both events.  We will also suggest some other hotels nearby later on.
