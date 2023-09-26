@@ -19,8 +19,8 @@ The ASK 2023 venue is different from the [ASIACRYPT 2023](https://asiacrypt.iacr
 	<thead>
 		<tr>
 			<th style="border: 2px #000000 solid">Hotel</th>
-			<th style="border: 2px #000000 solid">Echeng Hotel <br>(怡程酒店广州珠江新城暨大店)</th>
-			<th style="border: 2px #000000 solid">Hampton by Hilton Hotel <br>(广州珠江新城希尔顿欢朋酒店)</th>
+			<th style="border: 2px #000000 solid" align="center">Echeng Hotel <br>(怡程酒店广州珠江新城暨大店)</th>
+			<th style="border: 2px #000000 solid" align="center">Hampton by Hilton Hotel <br>(广州珠江新城希尔顿欢朋酒店)</th>
 		</tr>
 	</thead>
 	<tbody>
