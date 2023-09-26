@@ -17,12 +17,14 @@ The ASK 2023 venue is different from the [ASIACRYPT 2023](https://asiacrypt.iacr
 <div style="display: flex;">
   <div style="flex: 50%;">
     <!-- 第一列的内容 -->
-<p>Echeng Hotel (怡程酒店广州珠江新城暨大店)</p>
-<br>Location: ECHENG Hotel,National Defense mansion,No.503,HuangpuAvenue West Tianhe District, Canton City, Guangdong Province (1.3km away from the venue)
-<br>Tel: +86 181 0267 4963, +86 134 3102 1624
-<br>Price:
-<br>* Standard room 450￥ for one person and 500￥ for two persons
-<br>* Big bed room 450￥ for one person
+Echeng Hotel (怡程酒店广州珠江新城暨大店)</br>
+<p>Location: ECHENG Hotel,National Defense mansion,No.503,HuangpuAvenue West Tianhe District, Canton City, Guangdong Province (1.3km away from the venue)</p>
+<p>Tel: +86 181 0267 4963, +86 134 3102 1624</p>
+<p>Price:</p>
+<ul>
+<li>Standard room 450￥ for one person and 500￥ for two persons</li>
+<li>Big bed room 450￥ for one person</li>
+</ul>
   </div>
   <div style="flex: 50%;">
 **Hampton by Hilton Hotel (广州珠江新城希尔顿欢朋酒店)**
