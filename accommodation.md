@@ -41,7 +41,7 @@ The ASK 2023 venue is different from the [ASIACRYPT 2023](https://asiacrypt.iacr
 		</tr>
 		<tr>
 			<td style="border: 2px #000000 solid">Note</td>
-			<td style="border: 2px #000000 solid" colspan="2">If you would like to reserve one of the two comfortable hotels we recommend, please fill out this questionnaire: <a href="https://forms.gle/CxSbgsvjcUouRXkd6">Link A</a>, thank you. (If the link cannot load, you can use this link: <a href="https://www.wjx.top/vm/w24tFjg.aspx# ">LINK B</a>.). In addition, you can also book the hotel yourself, then you will not need to fill out this questionnaire.
+			<td style="border: 2px #000000 solid" colspan="2">If you would like to reserve one of the two comfortable hotels we recommend, please fill out this questionnaire: <a href="https://forms.gle/CxSbgsvjcUouRXkd6">Link A</a>, thank you. If the link cannot load, you can use this link: <a href="https://www.wjx.top/vm/w24tFjg.aspx# ">LINK B</a>. In addition, you can also book the hotel yourself, then you will not need to fill out this questionnaire.
 </th>
 		</tr>
 
