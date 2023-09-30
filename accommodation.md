@@ -26,8 +26,8 @@ The ASK 2023 venue is different from the [ASIACRYPT 2023](https://asiacrypt.iacr
 	<tbody>
 		<tr>
 			<td style="border: 2px #000000 solid">Location</td>
-			<td style="border: 2px #000000 solid">ECHENG Hotel,National Defense mansion,No.503,HuangpuAvenue West Tianhe District, Canton City, Guangdong Province (1.3km away from the venue)</td>
-			<td style="border: 2px #000000 solid">No.495 Huang Pu Da Dao Xi, Tianhe District, Guangzhou 510630, PRC (1.4km away from the venue)</td>
+			<td style="border: 2px #000000 solid">ECHENG Hotel,National Defense mansion,No.503,HuangpuAvenue West Tianhe District, Canton City, Guangdong Province (440m away from the venue)</td>
+			<td style="border: 2px #000000 solid">No.495 Huang Pu Da Dao Xi, Tianhe District, Guangzhou 510630, PRC (640m away from the venue)</td>
 		</tr>
 		<tr>
 			<td style="border: 2px #000000 solid">Tel.</td>
