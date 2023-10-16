@@ -35,12 +35,12 @@ The general co-chairs can be contacted by email at ask2023(at)googlegroups(dot)c
 <li>Ling Song(Jinan University, Guangzhou, China)</li>
 </ul>
 
-<div class="row text-center">
-<div class="col-lg-9 col-xxl-7 mx-auto">
-  <a href="https://www.jnu.edu.cn/main.htm"><img border="0" height="140" width="140" src="https://askworkshop.github.io/ask2023/assets/images/jnu.png" /></a>
-  <a href="https://www.cacrnet.org.cn/"><img border="0" src="https://askworkshop.github.io/ask2023/assets/images/cacr.png" height="130" width="130" /></a>
-  <a href="https://www.xmu.edu.cn/"><img border="0" src="https://askworkshop.github.io/ask2023/assets/images/xmu.png" height="130" width="130" /></a>
+
+<div class="imgcot">
+  <a class="imgitm" href="https://www.jnu.edu.cn/main.htm"><img border="0" src="https://askworkshop.github.io/ask2023/assets/images/jnu.png" height="130" width="130" /></a>
+  <a class="imgitm" href="https://www.cacrnet.org.cn/"><img border="0" src="https://askworkshop.github.io/ask2023/assets/images/cacr.png" height="130" width="130" /></a>
+  <a class="imgitm" href="https://www.xmu.edu.cn/"><img border="0" src="https://askworkshop.github.io/ask2023/assets/images/xmu.png" height="130" width="130" /></a>
 </div>
-</div>
+
 
 
