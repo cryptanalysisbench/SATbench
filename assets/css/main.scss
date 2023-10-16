@@ -6,12 +6,13 @@
 @import "minimal-mistakes"; // main partials
 
 .imgcot {
-  display: flex;
-  justify-content: space-around;
-  align-items: center;
+  text-align: center;
 }
 .imgitm {
-  flex: 1;
   display: inline-block;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
