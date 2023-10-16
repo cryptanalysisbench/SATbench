@@ -37,9 +37,9 @@ The general co-chairs can be contacted by email at ask2023(at)googlegroups(dot)c
 
 <div class="row text-center">
 <div class="col-lg-9 col-xxl-7 mx-auto">
-  <a href=""><img border="0" height="130" width="130" src="https://askworkshop.github.io/ask2023/assets/images/jnu.png" /></a>
-  <a href=""><img border="0" src="https://askworkshop.github.io/ask2023/assets/images/cacr.png" height="130" width="130" /></a>
-  <a href=""><img border="0" src="https://askworkshop.github.io/ask2023/assets/images/xmu.png" height="130" width="130" /></a>
+  <a href="https://www.jnu.edu.cn/main.htm"><img border="0" height="130" width="130" src="https://askworkshop.github.io/ask2023/assets/images/jnu.png" /></a>
+  <a href="https://www.cacrnet.org.cn/"><img border="0" src="https://askworkshop.github.io/ask2023/assets/images/cacr.png" height="130" width="130" /></a>
+  <a href="https://www.xmu.edu.cn/"><img border="0" src="https://askworkshop.github.io/ask2023/assets/images/xmu.png" height="130" width="130" /></a>
 </div>
 </div>
 
