@@ -38,8 +38,8 @@ The general co-chairs can be contacted by email at ask2023(at)googlegroups(dot)c
 <div class="row text-center">
 <div class="col-lg-9 col-xxl-7 mx-auto">
   <a href=""><img border="0" height="130" width="130" src="/assets/images/jnu.png" /></a>
-  <a href=""><img border="0" src="/assets/images/cacr.png" height="200" width="200" /></a>
-  <a href=""><img border="0" src="/assets/images/xmu.png" height="200" width="200" /></a>
+  <a href=""><img border="0" src="/assets/images/cacr.png" height="130" width="130" /></a>
+  <a href=""><img border="0" src="/assets/images/xmu.png" height="130" width="130" /></a>
 </div>
 </div>
 
