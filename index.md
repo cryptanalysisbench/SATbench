@@ -37,9 +37,9 @@ The general co-chairs can be contacted by email at ask2023(at)googlegroups(dot)c
 
 <div class="row text-center">
 <div class="col-lg-9 col-xxl-7 mx-auto">
-  <a href="" class="btn btn-lg btn-primary rounded-pill mx-1"><img border="0" src="/assets/images/jnu.png" /></a>
-  <a href="" class="btn btn-lg btn-outline-primary rounded-pill mx-1"><img border="0" src="/assets/images/cacr.png" /></a>
-  <a href="" class="btn btn-lg btn-outline-primary rounded-pill mx-1"><img border="0" src="/assets/images/xmu.png" /></a>
+  <a href=""><img border="0" height="130" width="130" src="/assets/images/jnu.png" /></a>
+  <a href=""><img border="0" src="/assets/images/cacr.png" height="200" width="200" /></a>
+  <a href=""><img border="0" src="/assets/images/xmu.png" height="200" width="200" /></a>
 </div>
 </div>
 
