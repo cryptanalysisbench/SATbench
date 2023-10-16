@@ -14,7 +14,7 @@ We are very grateful to the following organizations who generously sponsored the
 
 <div class="imgcot">
   <a class="imgitm" href="https://www.nsfc.gov.cn"><img border="0" src="https://askworkshop.github.io/ask2023/assets/images/nnsfc.png" height="130" width="130" /></a>
-  <a class="imgitm" href="https://www.cacrnet.org.cn/"><img border="0" src="https://askworkshop.github.io/ask2023/assets/images/cacr.png" height="130" width="130" /></a>
+  <a class="imgitm" href="https://www.cacrnet.org.cn/"><img border="0" src="https://askworkshop.github.io/ask2023/assets/images/sjtu.png" height="130" width="130" /></a>
 </div>
 
 <!--
