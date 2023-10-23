@@ -18,4 +18,4 @@ sidebar:
 | Loïc Masure | Wenjie Nan | Jin Peng | Thomas Peyrin | Mostafizar Rahman | Iftekhar Salam | Danping Shi | Siwei Sun | Quan Quan Tan | Yufeng Tang |
 | Wenlong Tian | Juan del Carmen Grados Vasquez | Mohammad Vaziri | Libo Wang | Weijia Wang | Haoyang Wang | Gaoli Wang | Qingju Wang | Chuah Chai Wen | Wenling Wu |
 | Baofeng Wu | Zejun Xiang | Hailun Yan | Qianqian Yang | Yiran Yao | Bo Yu | Liu Zhang | Bin Zhang | Lei Zhang | Wenying Zhang |
-| Tianyu Zhang | Liangju Zhao | Yafei Zheng | Jian Zou | &#124; | &#124; | &#124; | &#124; | &#124; | &#124; |
+| Tianyu Zhang | Liangju Zhao | Yafei Zheng | Jian Zou |   |   |   |   |   |   |
