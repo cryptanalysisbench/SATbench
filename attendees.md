@@ -11,6 +11,7 @@ sidebar:
 
 # Attendees
 
+<style> table th:first-of-type { width: 100px; } </style>
 | Janaka Araliya Bandara Alawatugoda | Ravi Anand | Roberto Avanzi | Subhadeep Banik | Zhenzhen Bao | Emanuele Bellini |
 | Ritam Bhaumik | Christina Boura | Bishwajit Chakraborty | Yi Chen | Siwei Chen | Shiyao Chen |
 | Patrick Derbez | Chandan Dey | Chandranan Dhar | Avijit Dutta | Trevor Yap Hong Eng | Jordan Rami Reuven Ethan |
