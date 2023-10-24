@@ -10,6 +10,6 @@ sidebar:
 ---
 
 # Attendees
-To be annouced ...
+To be announced …
 <!-- <style> table td { width: 200px; } </style> -->
 
