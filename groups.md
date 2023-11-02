@@ -12,53 +12,142 @@ sidebar:
 
 # Group Sessions
 
-To be announced ...
-<!-- Groups and members of each group are as follows. -->
+Groups and members of each group are as follows.
+<!-- ### Group A-1 (@Room 513): Cryptanalysis 1  -->
 
-<!-- ### Group A-1 (@Room 513): Cryptanalysis 1 
+## Group 1: Primitive design: block ciphers, stream ciphers, hash functions, (cryptographic) permutations etc.
 ---
-- Orr Dunkelman
+* Zheng Gong (discussion leader)
+* Roberto Avanzi
+* Wenling Wu
+* Yafei Zheng
+* Siwei Sun
+* Gaoli Wang
+* Ting Cui
+* Qian Liu
+
+## Group 2: Cryptanalysis of cryptographic primitives.
+### Group 2-1
+---
+* Thomas Peyrin (discussion leader)
+* Muzhou Li
+* Yi Chen
+* Mostafizar Rahman 
+* Qianqian Yang
+* Jinyu Lu
+* Huimin Liu
+* Zheng Li
+
+### Group 2-2
+---
+* Christina Boura (discussion leader)
+* Danping Shi
+* Yiran Yao
+* Mohammad Vaziri
+* Bing Sun
+* Liu Zhang
+* Wenying Zhang
+* Yi Tu
+
+### Group 2-3
+---
+* Patrick Derbez (discussion leader)
+* Ling Sun
+* Rachelle Heim
+* Yin Lv
+* Huina Li
+* Liangju Zhao
+* Haoyang Wang
+
+### Group 2-4
+---
+* Kai Hu (discussion leader)
+* Chandan Dey
+* Zhongfeng Niu
+* Siwei Chen
+* Shichang Wang
+* Quan Quan Tan
+* Mohamed Rachidi
+* Guozhen Liu
+
+### Group 2-5
+---
+* Zhenzhen Bao (discussion leader)
+* Lei Zhang
+* Juan Grados
+* Trevor Yap Hong Eng
+* Iftekhar Salam
+* Bo Yu
+* Kexin Qiao
+* Yingying Li
+
+## Group 3: Design and analysis of mode of operation: (authenticated) encryption schemes, message authentication codes etc.
+
+### Group 3-1
+---
+* Mustafa Khairallah (discussion leader)
+* Ravindra R Jejurikar
+* Jordan Rami Reuven Ethan
+* Chandranan Dhar
+* Eik List
+* Sougata Mandal
+* Chuah Chai Wen
+
+### Group 3-2
+---
+* Avijit  Dutta (discussion leader)
+* Ritam Bhaumik                    
+* Jérôme  Govinden                 
+* Bishwajit Chakraborty            
+* Yaobin  Shen                     
+* Wonseok Choi                     
+* Ling Song                       
+
+## Group 4: Symmetric crypto with public-key applications (MPC, zero knowledge, FHE, etc.)
+### Group 4-1
+---
+- Lorenzo Grassi (discussion leader)
+- Hailun Yan
+- Libo Wang
+- Xingran Li
+- Tianyu Zhang
 - Subhadeep Banik
-- Zhenzhen Bao
-- Mustafa Khairallah
-- Jonathan Fuchs
-- Li Yang
-- Kazuo Sakiyama
-- Jing Yang
-- Christian Rechberger -->
+- Bin Zhang
+- Wenxiao Qiao
 
-<!-- ### Group A-2 (@Room 503): Cryptanalysis 2
+### Group 4-2
 ---
-- Patrick Derbez
-- Willi Meier
-- Ling Song
-- Danping Shi
-- Lenka Marekova
-- Reinhard Lüftenegger
+- Fukang Liu (discussion leader)
+- Shiyao Chen
+- Wenjie Nan
+- Jin Peng
+- Wenlong Tian
+- Mohammad Mahzoun
+- Baofeng Wu
+
+## Group 5: (Post)-Quantum symmetric-key schemes.
+---
+- Shun Li (discussion leader)
+- Qingju Wang
+- Ravi Anand
+- Jian Zou
+- Yiyuan Luo
+- Tairong Shi
+- Zhiyu Zhang
+- Qinggan Fu
+- Ping Zhang
+
+## Group 6: Implementation of symmetric-key schemes.
+---
+- Weijia Wang (discussion leader)
+- Loïc Masure
+- Da Lin
 - Zejun Xiang
-- Lingchen Li
-- Siwei Chen -->
+- Di Li
+- Yufeng Tang
+- Jian Zou
 
-<!-- ### Group A-3(@Room: 504): Cryptanalysis 3
----
-- Dhiman Saha
-- Siwei Sun
-- Ferdinand Sibleyras
-- Navid Ghaedi Bardeh
-- Yingjie Zhang
-- Yi Zhang
-- Yu Sasaki
-- Quan Quan Tan -->
 
-<!-- ### Group B: Primitive design (@Room: 505): block ciphers, stream ciphers, hash functions, (cryptographic) permutations
----
-- Rei Ueno
-- Yongzhuang Wei
-- Haixia Zhao      
-- Bing Sun
-- Thomas Peyrin
-- Kazumaro Aoki
-- Gaoli Wang -->
 
 <!-- ### Group C (@Room: 502): Design and analysis of mode of operation
 ---
