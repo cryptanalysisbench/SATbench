@@ -27,8 +27,8 @@ Groups and members of each group are as follows.
 * Qian Liu
 
 ## Group 2: Cryptanalysis of cryptographic primitives.
-### Group 2-1
 ---
+### Group 2-1
 * Thomas Peyrin (discussion leader)
 * Muzhou Li
 * Yi Chen
@@ -39,7 +39,6 @@ Groups and members of each group are as follows.
 * Zheng Li
 
 ### Group 2-2
----
 * Christina Boura (discussion leader)
 * Danping Shi
 * Yiran Yao
@@ -50,7 +49,6 @@ Groups and members of each group are as follows.
 * Yi Tu
 
 ### Group 2-3
----
 * Patrick Derbez (discussion leader)
 * Ling Sun
 * Rachelle Heim
@@ -60,7 +58,6 @@ Groups and members of each group are as follows.
 * Haoyang Wang
 
 ### Group 2-4
----
 * Kai Hu (discussion leader)
 * Chandan Dey
 * Zhongfeng Niu
@@ -71,7 +68,6 @@ Groups and members of each group are as follows.
 * Guozhen Liu
 
 ### Group 2-5
----
 * Zhenzhen Bao (discussion leader)
 * Lei Zhang
 * Juan Grados
@@ -82,9 +78,9 @@ Groups and members of each group are as follows.
 * Yingying Li
 
 ## Group 3: Design and analysis of mode of operation: (authenticated) encryption schemes, message authentication codes etc.
-
-### Group 3-1
 ---
+### Group 3-1
+
 * Mustafa Khairallah (discussion leader)
 * Ravindra R Jejurikar
 * Jordan Rami Reuven Ethan
@@ -94,7 +90,6 @@ Groups and members of each group are as follows.
 * Chuah Chai Wen
 
 ### Group 3-2
----
 * Avijit  Dutta (discussion leader)
 * Ritam Bhaumik                    
 * Jérôme  Govinden                 
@@ -104,8 +99,8 @@ Groups and members of each group are as follows.
 * Ling Song                       
 
 ## Group 4: Symmetric crypto with public-key applications (MPC, zero knowledge, FHE, etc.)
-### Group 4-1
 ---
+### Group 4-1
 - Lorenzo Grassi (discussion leader)
 - Hailun Yan
 - Libo Wang
@@ -116,7 +111,6 @@ Groups and members of each group are as follows.
 - Wenxiao Qiao
 
 ### Group 4-2
----
 - Fukang Liu (discussion leader)
 - Shiyao Chen
 - Wenjie Nan
