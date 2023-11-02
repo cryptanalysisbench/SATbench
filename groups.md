@@ -16,7 +16,6 @@ Groups and members of each group are as follows.
 <!-- ### Group A-1 (@Room 513): Cryptanalysis 1  -->
 
 ## Group 1: Primitive design: block ciphers, stream ciphers, hash functions, (cryptographic) permutations etc.
----
 * Zheng Gong (discussion leader)
 * Roberto Avanzi
 * Wenling Wu
@@ -27,7 +26,6 @@ Groups and members of each group are as follows.
 * Qian Liu
 
 ## Group 2: Cryptanalysis of cryptographic primitives.
----
 ### Group 2-1
 * Thomas Peyrin (discussion leader)
 * Muzhou Li
@@ -78,7 +76,6 @@ Groups and members of each group are as follows.
 * Yingying Li
 
 ## Group 3: Design and analysis of mode of operation: (authenticated) encryption schemes, message authentication codes etc.
----
 ### Group 3-1
 
 * Mustafa Khairallah (discussion leader)
@@ -99,7 +96,6 @@ Groups and members of each group are as follows.
 * Ling Song                       
 
 ## Group 4: Symmetric crypto with public-key applications (MPC, zero knowledge, FHE, etc.)
----
 ### Group 4-1
 - Lorenzo Grassi (discussion leader)
 - Hailun Yan
@@ -120,7 +116,6 @@ Groups and members of each group are as follows.
 - Baofeng Wu
 
 ## Group 5: (Post)-Quantum symmetric-key schemes.
----
 - Shun Li (discussion leader)
 - Qingju Wang
 - Ravi Anand
@@ -132,7 +127,6 @@ Groups and members of each group are as follows.
 - Ping Zhang
 
 ## Group 6: Implementation of symmetric-key schemes.
----
 - Weijia Wang (discussion leader)
 - Loïc Masure
 - Da Lin
