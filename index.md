@@ -46,7 +46,7 @@ The general co-chairs can be contacted by email at ask2023(at)googlegroups(dot)c
 ## Co-organizers
 
 <div class="imgcot">
-  <a class="imgitm" href="https://ibc.sjtu.edu.cn/"><img border="0" src="https://askworkshop.github.io/ask2023/assets/images/sjtu.png" height="130" width="130" /></a>
+  <a class="imgitm" href=""><img border="0" src="https://askworkshop.github.io/ask2023/assets/images/sjtu.png" height="130" width="130" /></a>
   <a class="imgitm" href="https://www.cacrnet.org.cn/"><img border="0" src="https://askworkshop.github.io/ask2023/assets/images/cacr.png" height="130" width="130" /></a>
 </div>
 
