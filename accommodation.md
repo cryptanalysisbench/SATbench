@@ -41,7 +41,9 @@ The ASK 2023 venue is different from the [ASIACRYPT 2023](https://asiacrypt.iacr
 		</tr>
 		<tr>
 			<td style="border: 2px #000000 solid">Note</td>
-			<td style="border: 2px #000000 solid" colspan="2">If you would like to reserve one of the two comfortable hotels we recommend, please fill out this questionnaire: <b><u><a style="color:blue;font-size=20px" href="https://forms.gle/CxSbgsvjcUouRXkd6">Link A</a></u></b>. If the link cannot load, you can use this link: <b><u><a style="color:blue;font-size=20px" href="https://www.wjx.top/vm/w24tFjg.aspx# ">LINK B</a></u></b>. In addition, you can also book the hotel yourself, then you will not need to fill out this questionnaire.</td>
+			<td style="border: 2px #000000 solid" colspan="2">If you would like to reserve one of the two comfortable hotels we recommend, please fill out this questionnaire: <b><u><a style="color:blue;font-size=20px" href="https://forms.gle/CxSbgsvjcUouRXkd6">Link A</a></u></b>. If the link cannot load, you can use this link: <b><u><a style="color:blue;font-size=20px" href="https://www.wjx.top/vm/w24tFjg.aspx# ">LINK B</a></u></b>. In addition, you can also book the hotel yourself, then you will not need to fill out this questionnaire.</br>
+	Please note that the above two links will stop collecting data on November 15, 2023. If you are interested in booking a room, please click on the links and fill out the form in time.
+			</td>
 		</tr>
 
 	</tbody>
