@@ -17,7 +17,7 @@ sidebar:
 ## Friday, 1st December, 2023
 <table>
     <tr>
-        <td>08:45 – 09:15</td>
+        <td width="200">08:45 – 09:15</td>
         <td><b>Registration</b></td>
     </tr>
     <tr>
