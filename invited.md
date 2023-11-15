@@ -11,24 +11,23 @@ sidebar:
 
 # Invited Speakers
 
-•	Roberto Avanzi (ARM Germany GmbH), “Aspects of the Design of QARMAv2”
-•	Subhadeep Banik (University of Lugano, Switzerland), “Compact Circuits for Efficient Möbius Transform”
-•	Ritam Bhaumik (EPFL, Switzerland), “A new proof framework for post-quantum security of symmetric-key schemes”
-•	Christina Boura (Université Versailles Saint-Quentin-en-Yvelines, Université Paris-Saclay, France), “Automating the key recovery in differential attacks: A new algorithm and tool”
-•	Wonseok Choi (Purdue University, USA), “Fine-Tuning Ideal Worlds for the Xor of Two Permutation Outputs”
-•	Patrick Derbez (University of Rennes, France), “Differential Meet-in-the-middle attacks and Models”
-•	Avijit Dutta (Institute for Advancing Intelligence, TCG CREST, India), “Cascading Four Round LRW1 is Beyond Birthday Bound Secure”
-•	Zheng Gong (South China Normal University, China), “Unboxing ARX-based White-Box Ciphers: Chosen-Plaintext Computation Analysis and Its Applications”
-•	Juan Grados and Mohamed Rachidi (Technology Innovation Institute, United Arab Emirate), “CLAASP: a Cryptographic Library for the Automated Analysis of Symmetric Primitives”
-•	Lorenzo Grassi (Ruhr University Bochum, Germany), “Horst and Amaryllises: Possible Generalizations of the Feistel and of the Lai-Massey Schemes”
-•	Jian Guo (Nanyang Technological University, Singapore), “A realistic summary and projection of cryptanalysis”
-•	Mustafa Khairallah (Seagate Research Group, Singapore), “Cryptanalysis of TNT: A New Chapter in the LRW Paradigm”
-•	Fukang Liu (Tokyo Institute of Technology, Japan), “Coefficient Grouping: A New Efficient Technique to Evaluate the Algebraic Degree of SPN Ciphers over F_{2^n}”
-•	Loic Masure (Université de Montpellier, France), “masking implementations of symmetric crypto in a low noise environment : analysis and evaluation”
-•	Siwei Sun (University of Chinese Academy of Sciences, China), “Speeding Up Preimage and Key-Recovery Attacks with Differential-Linear Approximations”
-•	Weijia Wang (Shandong University, China), “Efficient Higher-Order Masking Schemes: Leveraging Amortization and Pre-computation”
-•	Bin Zhang (Institute of Software, Chinese Academy of Science, China), “Improved Fast Correlation Attacks on the Sosemanuk Stream Cipher”
-
+- Roberto Avanzi (ARM Germany GmbH), “Aspects of the Design of QARMAv2”
+- Subhadeep Banik (University of Lugano, Switzerland), “Compact Circuits for Efficient Möbius Transform”
+- Ritam Bhaumik (EPFL, Switzerland), “A new proof framework for post-quantum security of symmetric-key schemes”
+- Christina Boura (Université Versailles Saint-Quentin-en-Yvelines, Université Paris-Saclay, France), “Automating the key recovery in differential attacks: A new algorithm and tool”
+- Wonseok Choi (Purdue University, USA), “Fine-Tuning Ideal Worlds for the Xor of Two Permutation Outputs”
+- Patrick Derbez (University of Rennes, France), “Differential Meet-in-the-middle attacks and Models”
+- Avijit Dutta (Institute for Advancing Intelligence, TCG CREST, India), “Cascading Four Round LRW1 is Beyond Birthday Bound Secure”
+- Zheng Gong (South China Normal University, China), “Unboxing ARX-based White-Box Ciphers: Chosen-Plaintext Computation Analysis and Its Applications”
+- Juan Grados and Mohamed Rachidi (Technology Innovation Institute, United Arab Emirate), “CLAASP: a Cryptographic Library for the Automated Analysis of Symmetric Primitives”
+- Lorenzo Grassi (Ruhr University Bochum, Germany), “Horst and Amaryllises: Possible Generalizations of the Feistel and of the Lai-Massey Schemes”
+- Jian Guo (Nanyang Technological University, Singapore), “A realistic summary and projection of cryptanalysis”
+- Mustafa Khairallah (Seagate Research Group, Singapore), “Cryptanalysis of TNT: A New Chapter in the LRW Paradigm”
+- Fukang Liu (Tokyo Institute of Technology, Japan), “Coefficient Grouping: A New Efficient Technique to Evaluate the Algebraic Degree of SPN Ciphers over F_{2^n}”
+- Loic Masure (Université de Montpellier, France), “masking implementations of symmetric crypto in a low noise environment : analysis and evaluation”
+- Siwei Sun (University of Chinese Academy of Sciences, China), “Speeding Up Preimage and Key-Recovery Attacks with Differential-Linear Approximations”
+- Weijia Wang (Shandong University, China), “Efficient Higher-Order Masking Schemes: Leveraging Amortization and Pre-computation”
+- Bin Zhang (Institute of Software, Chinese Academy of Science, China), “Improved Fast Correlation Attacks on the Sosemanuk Stream Cipher”
 
 
 
