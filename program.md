@@ -30,7 +30,7 @@ sidebar:
           <ol>
           <li>A realistic summary and projection of cryptanalysis, Jian Guo (Nanyang Technological University, Singapore)</li>
           <li>Cryptanalysis of TNT: A New Chapter in the LRW Paradigm, Mustafa Khairallah (Seagate Research Group, Singapore)</li>
-          <li>Coefficient Grouping: A New Efficient Technique to Evaluate the Algebraic Degree of SPN Ciphers over $F_{2^n}$, Fukang Liu (Tokyo Institute of Technology, Japan)</li>
+          <li>Coefficient Grouping: A New Efficient Technique to Evaluate the Algebraic Degree of SPN Ciphers over F_{2^n}, Fukang Liu (Tokyo Institute of Technology, Japan)</li>
           </ol>
         </td>
     </tr>
