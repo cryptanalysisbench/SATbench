@@ -17,7 +17,7 @@ sidebar:
 ## Friday, 1st December, 2023
 <table>
     <tr>
-        <td width="200">08:45 – 09:15</td>
+        <td width="180">08:45 – 09:15</td>
         <td><b>Registration</b></td>
     </tr>
     <tr>
@@ -69,7 +69,7 @@ sidebar:
 
 <table>
     <tr>
-        <td>09:00 – 10:30</td>
+        <td width="180">09:00 – 10:30</td>
         <td><b>Invited Talks</b>
           <ol>
           <li>Aspects of the Design of QARMAv2, Roberto Avanzi (ARM Germany GmbH)</li>
@@ -115,5 +115,54 @@ sidebar:
       <tr>
         <td>20:00 – 21:30</td>
         <td><b>Pearl River Night Cruise</b></td>
+    </tr>
+</table>
+
+## Sunday, 3rd December, 2023
+
+<table>
+    <tr>
+        <td width="180">09:00 – 10:30</td>
+        <td><b>Invited Talks</b>
+          <ol>
+          <li>Improved Fast Correlation Attacks on the Sosemanuk Stream Cipher, Bin Zhang (Institute of Software, Chinese Academy of Science, China)</li>
+          <li>Differential Meet-in-the-middle attacks and Models, Patrick Derbez (University of Rennes, France)</li>
+          <li>Fine-Tuning Ideal Worlds for the Xor of Two Permutation Outputs, Wonseok Choi (Purdue University, USA)</li>
+          </ol>
+        </td>
+    </tr>
+    <tr>
+        <td>10:30 – 11:00</td>
+        <td><b>Coffee Break</b></td>
+    </tr>
+      <tr>
+        <td>11:00 – 12:30</td>
+        <td><b>Invited Talks</b>
+          <ol>
+          <li>Compact Circuits for Efficient Möbius Transform, Subhadeep Banik (University of Lugano, Switzerland)</li>
+          <li>Efficient Higher-Order Masking Schemes: Leveraging Amortization and Pre-computation, Weijia Wang (Shandong University, China)</li>
+          <li>CLAASP: a Cryptographic Library for the Automated Analysis of Symmetric Primitives, Juan Grados and Mohamed Rachidi (Technology Innovation Institute, United Arab Emirate)</li>
+          </ol>
+        </td>
+    </tr>
+      <tr>
+        <td>12:30 – 14:00</td>
+        <td><b>Lunch</b></td>
+    </tr>
+      <tr>
+        <td>14:00 – 16:00</td>
+        <td><b>Group Discussion</b></td>
+    </tr>
+      <tr>
+        <td>16:00 – 16:30</td>
+        <td><b>Coffee break</b></td>
+    </tr>
+      <tr>
+        <td>16:30 – 17:30</td>
+        <td><b>Wrap Up Of Each Group</b></td>
+    </tr>
+      <tr>
+        <td>17:30 – 17:35</td>
+        <td><b>Closing Remarks</b></td>
     </tr>
 </table>
