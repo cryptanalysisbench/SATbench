@@ -11,7 +11,28 @@ sidebar:
 
 # Invited Speakers
 
-To be announced ...
+1.	Roberto Avanzi (ARM Germany GmbH), “Aspects of the Design of QARMAv2”
+2.	Subhadeep Banik (University of Lugano, Switzerland), “Compact Circuits for Efficient Möbius Transform”
+3.	Ritam Bhaumik (EPFL, Switzerland), “A new proof framework for post-quantum security of symmetric-key schemes”
+4.	Christina Boura (Université Versailles Saint-Quentin-en-Yvelines, Université Paris-Saclay, France), “Automating the key recovery in differential attacks: A new algorithm and tool”
+5.	Wonseok Choi (Purdue University, USA), “Fine-Tuning Ideal Worlds for the Xor of Two Permutation Outputs”
+6.	Patrick Derbez (University of Rennes, France), “Differential Meet-in-the-middle attacks and Models”
+7.	Avijit Dutta (Institute for Advancing Intelligence, TCG CREST, India), “Cascading Four Round LRW1 is Beyond Birthday Bound Secure”
+8.	Zheng Gong (South China Normal University, China), “Unboxing ARX-based White-Box Ciphers: Chosen-Plaintext Computation Analysis and Its Applications”
+9.	Juan Grados and Mohamed Rachidi (Technology Innovation Institute, United Arab Emirate), “CLAASP: a Cryptographic Library for the Automated Analysis of Symmetric Primitives”
+10.	Lorenzo Grassi (Ruhr University Bochum, Germany), “Horst and Amaryllises: Possible Generalizations of the Feistel and of the Lai-Massey Schemes”
+11.	Jian Guo (Nanyang Technological University, Singapore), “A realistic summary and projection of cryptanalysis”
+12.	Mustafa Khairallah (Seagate Research Group, Singapore), “Cryptanalysis of TNT: A New Chapter in the LRW Paradigm”
+13.	Fukang Liu (Tokyo Institute of Technology, Japan), “Coefficient Grouping: A New Efficient Technique to Evaluate the Algebraic Degree of SPN Ciphers over F_{2^n}”
+14.	Loic Masure (Université de Montpellier, France), “masking implementations of symmetric crypto in a low noise environment : analysis and evaluation”
+15.	Siwei Sun (University of Chinese Academy of Sciences, China), “Speeding Up Preimage and Key-Recovery Attacks with Differential-Linear Approximations”
+16.	Weijia Wang (Shandong University, China), “Efficient Higher-Order Masking Schemes: Leveraging Amortization and Pre-computation”
+17.	Bin Zhang (Institute of Software, Chinese Academy of Science, China), “Improved Fast Correlation Attacks on the Sosemanuk Stream Cipher”
+
+
+
+
+
 
 <!-- # Confirmed Invited Speakers (@Room: 720)
 ### invited talk1 (9:30 ~ 11:00 on Dec 13th)
