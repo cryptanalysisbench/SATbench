@@ -35,7 +35,7 @@ docs:
     - title: Accommodation
       url: /accommodation/
       
-  - title: Accessorias
+  - title: Appendix
     children:
     - title: Conference Notice
       url: /assets/accessory/ASK2023%20Conference%20Notice.pdf
