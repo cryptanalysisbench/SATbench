@@ -34,7 +34,11 @@ docs:
       url: /travel/
     - title: Accommodation
       url: /accommodation/
-
+      
+  - title: Accessorias
+      children:
+    - title: Conference Notice
+      url: /assets/accessory/ASK2023%20Conference%20Notice.pdf
 
 
   - title: Previous Workshops 
