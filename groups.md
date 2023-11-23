@@ -24,6 +24,7 @@ Groups and members of each group are as follows.
 * Gaoli Wang
 * Ting Cui
 * Qian Liu
+* Jianhua Wang
 
 ## Group 2: Cryptanalysis of cryptographic primitives.
 ### Group 2-1
@@ -35,6 +36,7 @@ Groups and members of each group are as follows.
 * Jinyu Lu
 * Huimin Liu
 * Zheng Li
+* Xiaomeng Sun
 
 ### Group 2-2
 * Christina Boura (discussion leader)
@@ -54,6 +56,7 @@ Groups and members of each group are as follows.
 * Huina Li
 * Liangju Zhao
 * Haoyang Wang
+* Kai Zhang
 
 ### Group 2-4
 * Kai Hu (discussion leader)
@@ -64,16 +67,17 @@ Groups and members of each group are as follows.
 * Quan Quan Tan
 * Mohamed Rachidi
 * Guozhen Liu
+* Jianing Zhang
 
 ### Group 2-5
 * Zhenzhen Bao (discussion leader)
 * Lei Zhang
 * Juan Grados
 * Trevor Yap Hong Eng
-* Iftekhar Salam
 * Bo Yu
 * Kexin Qiao
 * Yingying Li
+* Tianning Wang
 
 ## Group 3: Design and analysis of mode of operation: (authenticated) encryption schemes, message authentication codes etc.
 ### Group 3-1
@@ -84,7 +88,7 @@ Groups and members of each group are as follows.
 * Chandranan Dhar
 * Eik List
 * Sougata Mandal
-* Chuah Chai Wen
+* Phuong Pham
 
 ### Group 3-2
 * Avijit  Dutta (discussion leader)
@@ -104,7 +108,6 @@ Groups and members of each group are as follows.
 - Tianyu Zhang
 - Subhadeep Banik
 - Bin Zhang
-- Wenxiao Qiao
 
 ### Group 4-2
 - Fukang Liu (discussion leader)
@@ -112,13 +115,12 @@ Groups and members of each group are as follows.
 - Wenjie Nan
 - Jin Peng
 - Wenlong Tian
-- Mohammad Mahzoun
 - Baofeng Wu
+- Weizhe Wang
 
 ## Group 5: (Post)-Quantum symmetric-key schemes.
 - Shun Li (discussion leader)
 - Qingju Wang
-- Ravi Anand
 - Jian Zou
 - Yiyuan Luo
 - Tairong Shi
