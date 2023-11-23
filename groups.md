@@ -16,7 +16,7 @@ Groups and members of each group are as follows.
 <!-- ### Group A-1 (@Room 513): Cryptanalysis 1  -->
 
 ## Group 1: Primitive design: block ciphers, stream ciphers, hash functions, (cryptographic) permutations etc.
-* Zheng Gong (discussion leader)
+* Zheng Gong (Discussion Leader)
 * Roberto Avanzi
 * Wenling Wu
 * Yafei Zheng
@@ -28,7 +28,7 @@ Groups and members of each group are as follows.
 
 ## Group 2: Cryptanalysis of cryptographic primitives.
 ### Group 2-1
-* Thomas Peyrin (discussion leader)
+* Thomas Peyrin (Discussion Leader)
 * Muzhou Li
 * Yi Chen
 * Mostafizar Rahman 
@@ -39,7 +39,7 @@ Groups and members of each group are as follows.
 * Xiaomeng Sun
 
 ### Group 2-2
-* Christina Boura (discussion leader)
+* Christina Boura (Discussion Leader)
 * Danping Shi
 * Yiran Yao
 * Mohammad Vaziri
@@ -49,7 +49,7 @@ Groups and members of each group are as follows.
 * Yi Tu
 
 ### Group 2-3
-* Patrick Derbez (discussion leader)
+* Patrick Derbez (Discussion Leader)
 * Ling Sun
 * Rachelle Heim
 * Yin Lv
@@ -59,7 +59,7 @@ Groups and members of each group are as follows.
 * Kai Zhang
 
 ### Group 2-4
-* Kai Hu (discussion leader)
+* Kai Hu (Discussion Leader)
 * Chandan Dey
 * Zhongfeng Niu
 * Siwei Chen
@@ -70,7 +70,7 @@ Groups and members of each group are as follows.
 * Jianing Zhang
 
 ### Group 2-5
-* Zhenzhen Bao (discussion leader)
+* Zhenzhen Bao (Discussion Leader)
 * Lei Zhang
 * Juan Grados
 * Trevor Yap Hong Eng
@@ -82,7 +82,7 @@ Groups and members of each group are as follows.
 ## Group 3: Design and analysis of mode of operation: (authenticated) encryption schemes, message authentication codes etc.
 ### Group 3-1
 
-* Mustafa Khairallah (discussion leader)
+* Mustafa Khairallah (Discussion Leader)
 * Ravindra R Jejurikar
 * Jordan Rami Reuven Ethan
 * Chandranan Dhar
@@ -91,7 +91,7 @@ Groups and members of each group are as follows.
 * Phuong Pham
 
 ### Group 3-2
-* Avijit  Dutta (discussion leader)
+* Avijit  Dutta (Discussion Leader)
 * Ritam Bhaumik                    
 * Jérôme  Govinden                 
 * Bishwajit Chakraborty            
@@ -101,7 +101,7 @@ Groups and members of each group are as follows.
 
 ## Group 4: Symmetric crypto with public-key applications (MPC, zero knowledge, FHE, etc.)
 ### Group 4-1
-- Lorenzo Grassi (discussion leader)
+- Lorenzo Grassi (Discussion Leader)
 - Hailun Yan
 - Libo Wang
 - Xingran Li
@@ -110,7 +110,7 @@ Groups and members of each group are as follows.
 - Bin Zhang
 
 ### Group 4-2
-- Fukang Liu (discussion leader)
+- Fukang Liu (Discussion Leader)
 - Shiyao Chen
 - Wenjie Nan
 - Jin Peng
@@ -119,7 +119,7 @@ Groups and members of each group are as follows.
 - Weizhe Wang
 
 ## Group 5: (Post)-Quantum symmetric-key schemes.
-- Shun Li (discussion leader)
+- Shun Li (Discussion Leader)
 - Qingju Wang
 - Jian Zou
 - Yiyuan Luo
@@ -129,7 +129,7 @@ Groups and members of each group are as follows.
 - Ping Zhang
 
 ## Group 6: Implementation of symmetric-key schemes.
-- Weijia Wang (discussion leader)
+- Weijia Wang (Discussion Leader)
 - Loïc Masure
 - Da Lin
 - Zejun Xiang
