@@ -1,4 +1,4 @@
----
+![image](https://github.com/askworkshop/ask2023/assets/77279659/5042b6f0-34e9-44fe-b764-93a83bda299b)---
 layout: single
 toc: false
 classes: wide
@@ -15,7 +15,7 @@ sidebar:
 Groups and members of each group are as follows.
 <!-- ### Group A-1 (@Room 513): Cryptanalysis 1  -->
 
-## Group 1: Primitive design: block ciphers, stream ciphers, hash functions, (cryptographic) permutations etc.
+## Group 1 (@Room 523): Primitive design: block ciphers, stream ciphers, hash functions, (cryptographic) permutations etc.
 * Zheng Gong (Discussion Leader)
 * Roberto Avanzi
 * Wenling Wu
@@ -27,7 +27,7 @@ Groups and members of each group are as follows.
 * Jianhua Wang
 
 ## Group 2: Cryptanalysis of cryptographic primitives.
-### Group 2-1
+### Group 2-1 (@Room 512)
 * Thomas Peyrin (Discussion Leader)
 * Muzhou Li
 * Yi Chen
@@ -38,7 +38,7 @@ Groups and members of each group are as follows.
 * Zheng Li
 * Xiaomeng Sun
 
-### Group 2-2
+### Group 2-2 (@Room 511-left)
 * Christina Boura (Discussion Leader)
 * Danping Shi
 * Yiran Yao
@@ -48,7 +48,7 @@ Groups and members of each group are as follows.
 * Wenying Zhang
 * Yi Tu
 
-### Group 2-3
+### Group 2-3 (@Room 511-right)
 * Patrick Derbez (Discussion Leader)
 * Ling Sun
 * Rachelle Heim
@@ -58,7 +58,7 @@ Groups and members of each group are as follows.
 * Haoyang Wang
 * Kai Zhang
 
-### Group 2-4
+### Group 2-4 (@Room 509)
 * Kai Hu (Discussion Leader)
 * Chandan Dey
 * Zhongfeng Niu
@@ -69,7 +69,7 @@ Groups and members of each group are as follows.
 * Guozhen Liu
 * Jianing Zhang
 
-### Group 2-5
+### Group 2-5 (@Room 313)
 * Zhenzhen Bao (Discussion Leader)
 * Lei Zhang
 * Juan Grados
@@ -80,7 +80,7 @@ Groups and members of each group are as follows.
 * Tianning Wang
 
 ## Group 3: Design and analysis of mode of operation: (authenticated) encryption schemes, message authentication codes etc.
-### Group 3-1
+### Group 3-1 (@Room 3-Lab5)
 
 * Mustafa Khairallah (Discussion Leader)
 * Ravindra R Jejurikar
@@ -90,7 +90,7 @@ Groups and members of each group are as follows.
 * Sougata Mandal
 * Phuong Pham
 
-### Group 3-2
+### Group 3-2 (@Room 520 / 3-Lab3 / 3-Lab3)
 * Avijit  Dutta (Discussion Leader)
 * Ritam Bhaumik                    
 * Jérôme  Govinden                 
@@ -100,7 +100,7 @@ Groups and members of each group are as follows.
 * Ling Song                       
 
 ## Group 4: Symmetric crypto with public-key applications (MPC, zero knowledge, FHE, etc.)
-### Group 4-1
+### Group 4-1 (@Room 305)
 - Lorenzo Grassi (Discussion Leader)
 - Hailun Yan
 - Libo Wang
@@ -109,7 +109,7 @@ Groups and members of each group are as follows.
 - Subhadeep Banik
 - Bin Zhang
 
-### Group 4-2
+### Group 4-2 (@Room 510 / 3-Lab4 / 3-Lab4)
 - Fukang Liu (Discussion Leader)
 - Shiyao Chen
 - Wenjie Nan
@@ -118,7 +118,7 @@ Groups and members of each group are as follows.
 - Baofeng Wu
 - Weizhe Wang
 
-## Group 5: (Post)-Quantum symmetric-key schemes.
+## Group 5 (@Room 3-Lab1): (Post)-Quantum symmetric-key schemes.
 - Shun Li (Discussion Leader)
 - Qingju Wang
 - Jian Zou
@@ -128,7 +128,7 @@ Groups and members of each group are as follows.
 - Qinggan Fu
 - Ping Zhang
 
-## Group 6: Implementation of symmetric-key schemes.
+## Group 6 (@Room 3-Lab2): Implementation of symmetric-key schemes.
 - Weijia Wang (Discussion Leader)
 - Loïc Masure
 - Da Lin
