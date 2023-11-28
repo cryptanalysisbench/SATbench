@@ -40,7 +40,7 @@ sidebar:
     </tr>
       <tr>
         <td>11:00 – 12:30</td>
-        <td><b>Invited Talks (@Lecture Hall - 学术报告厅)</b></br>
+        <td><p><b>Invited Talks (@Lecture Hall - 学术报告厅)</b></p>
           Session Chair: Wonseok Choi
           <ol>
           <li>Coefficient Grouping: A New Efficient Technique to Evaluate the Algebraic Degree of SPN Ciphers over F_{2^n}, Fukang Liu (Tokyo Institute of Technology, Japan)</li>
@@ -79,7 +79,7 @@ sidebar:
 <table>
     <tr>
         <td width="180">09:00 – 10:30</td>
-        <td><b>Invited Talks (@International Conference Hall - 科学馆国际会议厅)</b></br>
+        <td><p><b>Invited Talks (@International Conference Hall - 科学馆国际会议厅)</b></p>
           Session Chair: Haoyang Wang
           <ol>
           <li>Aspects of the Design of QARMAv2, Roberto Avanzi (ARM Germany GmbH)</li>
@@ -94,7 +94,7 @@ sidebar:
     </tr>
       <tr>
         <td>11:00 – 12:30</td>
-        <td><b>Invited Talks (@International Conference Hall - 科学馆国际会议厅)</b></br>
+        <td><p><b>Invited Talks (@International Conference Hall - 科学馆国际会议厅)</b></p>
           Session Chair: Shiyao Chen
           <ol>
           <li>Horst and Amaryllises: Possible Generalizations of the Feistel and of the Lai-Massey Schemes, Lorenzo Grassi (Ruhr University Bochum, Germany)</li>
@@ -142,7 +142,7 @@ sidebar:
 <table>
     <tr>
         <td width="180">09:00 – 10:30</td>
-        <td><b>Invited Talks (@International Conference Hall - 科学馆国际会议厅)</b></br>
+        <td><p><b>Invited Talks (@International Conference Hall - 科学馆国际会议厅)</b></p>
           Session Chair: Eik List
           <ol>
           <li>Improved Fast Correlation Attacks on the Sosemanuk Stream Cipher, Bin Zhang (Institute of Software, Chinese Academy of Science, China)</li>
@@ -157,7 +157,7 @@ sidebar:
     </tr>
       <tr>
         <td>11:00 – 12:30</td>
-        <td><b>Invited Talks (@International Conference Hall - 科学馆国际会议厅)</b></br>
+        <td><p><b>Invited Talks (@International Conference Hall - 科学馆国际会议厅)</b></p>
           Session Chair: Hailun Yan
           <ol>
           <li>Compact Circuits for Efficient Möbius Transform, Subhadeep Banik (University of Lugano, Switzerland)</li>
