@@ -11,7 +11,9 @@ sidebar:
 
 
 # Program 
-
+> Note:
+> @ Lecture Hall (学术报告厅) in the morning of the first day
+> @ Science Building (科学馆) in the rest of the workshop
 <!--You can find [here](https://www.google.com) a pdf version of the program.-->
 
 ## Friday, 1st December, 2023
@@ -63,7 +65,7 @@ sidebar:
     </tr>
       <tr>
         <td>16:00 – 16:30</td>
-        <td><b>Coffee Break</b></td>
+        <td><b>Coffee Break (@Floor 3 & 5)</b></td>
     </tr>
       <tr>
         <td>16:30 – 18:00</td>
@@ -117,10 +119,10 @@ sidebar:
     </tr>
       <tr>
         <td>16:00 – 16:30</td>
-        <td><b>Coffee break</b></td>
+        <td><b>Coffee Break (@Floor 3 & 5)</b></td>
     </tr>
       <tr>
-        <td>16:30 – 17:30</td>
+        <td>16:30 – 17:15</td>
         <td><b>Group Discussion</b>
         <ul>
           <li>@Rome 523, 512, 511-left, 511-right, 509, 313, 305, 3-Lab1, 3-Lab2, 3-Lab5, 3-Lab3, 3-Lab4</li>
@@ -128,11 +130,11 @@ sidebar:
         </td>
     </tr>
       <tr>
-        <td>17:30 – 20:00</td>
+        <td>17:15 – 19:45</td>
         <td><b>Banquet (@Guangzhou Restaurant - 广州酒家)</b></td>
     </tr>
       <tr>
-        <td>20:00 – 21:30</td>
+        <td>19:45 – 22:00</td>
         <td><b>Pearl River Night Cruise (@Dashatou Cruise Terminal - 大沙头码头)</b></td>
     </tr>
 </table>
@@ -180,11 +182,11 @@ sidebar:
     </tr>
       <tr>
         <td>16:00 – 16:30</td>
-        <td><b>Coffee break</b></td>
+        <td><b>Coffee Break (@Floor 2)</b></td>
     </tr>
       <tr>
         <td>16:30 – 17:30</td>
-        <td><b>Wrap Up Of Each Group</b></td>
+        <td><b>Wrap Up Of Each Group (@International Conference Hall - 科学馆国际会议厅)</b></td>
     </tr>
       <tr>
         <td>17:30 – 17:35</td>
