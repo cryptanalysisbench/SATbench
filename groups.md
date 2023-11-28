@@ -60,7 +60,6 @@ Groups and members of each group are as follows.
 
 ### Group 2-4 (@Room 509)
 * Kai Hu (Discussion Leader)
-* Chandan Dey
 * Zhongfeng Niu
 * Siwei Chen
 * Shichang Wang
@@ -120,7 +119,6 @@ Groups and members of each group are as follows.
 
 ## Group 5 (@Room 3-Lab1): (Post)-Quantum symmetric-key schemes.
 - Shun Li (Discussion Leader)
-- Qingju Wang
 - Jian Zou
 - Yiyuan Luo
 - Tairong Shi
