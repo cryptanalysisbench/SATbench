@@ -26,7 +26,8 @@ sidebar:
     </tr>
     <tr>
         <td>09:30 – 10:30</td>
-        <td><b>Invited Talks (Session Chair: Wenying Zhang)</b>
+        <td><b>Invited Talks</b></br>
+          Session Chair: Wenying Zhang
           <ol>
           <li>A realistic summary and projection of cryptanalysis, Jian Guo (Nanyang Technological University, Singapore)</li>
           <li>Cryptanalysis of TNT: A New Chapter in the LRW Paradigm, Mustafa Khairallah (Seagate Research Group, Singapore)</li>
@@ -39,7 +40,8 @@ sidebar:
     </tr>
       <tr>
         <td>11:00 – 12:30</td>
-        <td><b>Invited Talks (Session Chair: Wonseok Choi)</b>
+        <td><b>Invited Talks</b></br>
+          Session Chair: Wonseok Choi
           <ol>
           <li>Coefficient Grouping: A New Efficient Technique to Evaluate the Algebraic Degree of SPN Ciphers over F_{2^n}, Fukang Liu (Tokyo Institute of Technology, Japan)</li>
           <li>A new proof framework for post-quantum security of symmetric-key schemes, Ritam Bhaumik (EPFL, Switzerland)</li>
@@ -135,12 +137,13 @@ sidebar:
     </tr>
 </table>
 
-## Sunday, 3rd December, 2023 (@Science Building | International Conference Hall - 科学馆国际会议厅）
+## Sunday, 3rd December, 2023 (@Science Building - 科学馆）
 
 <table>
     <tr>
         <td width="180">09:00 – 10:30</td>
-        <td><b>Invited Talks (Session Chair: Eik List)</b>
+        <td><b>Invited Talks (@International Conference Hall - 科学馆国际会议厅)</b></br>
+          Session Chair: Eik List
           <ol>
           <li>Improved Fast Correlation Attacks on the Sosemanuk Stream Cipher, Bin Zhang (Institute of Software, Chinese Academy of Science, China)</li>
           <li>Differential Meet-in-the-middle attacks and Models, Patrick Derbez (University of Rennes, France)</li>
@@ -154,7 +157,8 @@ sidebar:
     </tr>
       <tr>
         <td>11:00 – 12:30</td>
-        <td><b>Invited Talks (Session Chair: Hailun Yan)</b>
+        <td><b>Invited Talks (@International Conference Hall - 科学馆国际会议厅)</b></br>
+          Session Chair: Hailun Yan
           <ol>
           <li>Compact Circuits for Efficient Möbius Transform, Subhadeep Banik (University of Lugano, Switzerland)</li>
           <li>Efficient Higher-Order Masking Schemes: Leveraging Amortization and Pre-computation, Weijia Wang (Shandong University, China)</li>
@@ -168,7 +172,7 @@ sidebar:
     </tr>
       <tr>
         <td>14:00 – 16:00</td>
-        <td><b>Group Discussion (@Science Building - 科学馆)</b>
+        <td><b>Group Discussion</b>
         <ul>
           <li>@Rome 523, 512, 511-left, 511-right, 509, 313, 305, 3-Lab1, 3-Lab2, 3-Lab5, 3-Lab3, 3-Lab4</li>
         </ul>
