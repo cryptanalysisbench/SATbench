@@ -73,12 +73,12 @@ sidebar:
     </tr>
 </table>
 
-## Saturday, 2nd December, 2023 (@Science Building | International Conference Hall - 科学馆国际会议厅）
-
+## Saturday, 2nd December, 2023 (@Science Building - 科学馆）
 <table>
     <tr>
         <td width="180">09:00 – 10:30</td>
-        <td><b>Invited Talks (Session Chair: Haoyang Wang)</b>
+        <td><b>Invited Talks (@International Conference Hall - 科学馆国际会议厅)</b>
+          Session Chair: Haoyang Wang
           <ol>
           <li>Aspects of the Design of QARMAv2, Roberto Avanzi (ARM Germany GmbH)</li>
           <li>Automating the key recovery in differential attacks: A new algorithm and tool, Christina Boura (Université Versailles Saint-Quentin-en-Yvelines, Université Paris-Saclay, France)</li>
@@ -92,7 +92,8 @@ sidebar:
     </tr>
       <tr>
         <td>11:00 – 12:30</td>
-        <td><b>Invited Talks (Session Chair: Shiyao Chen)</b>
+        <td><b>Invited Talks (@International Conference Hall - 科学馆国际会议厅)</b>
+          Session Chair: Shiyao Chen
           <ol>
           <li>Horst and Amaryllises: Possible Generalizations of the Feistel and of the Lai-Massey Schemes, Lorenzo Grassi (Ruhr University Bochum, Germany)</li>
           <li>Speeding Up Preimage and Key-Recovery Attacks with Differential-Linear Approximations, Siwei Sun (University of Chinese Academy of Sciences, China)</li>
@@ -106,7 +107,7 @@ sidebar:
     </tr>
       <tr>
         <td>14:00 – 16:00</td>
-        <td><b>Group Discussion (@Science Building - 科学馆)</b>
+        <td><b>Group Discussion</b>
         <ul>
           <li>@Rome 523, 512, 511-left, 511-right, 509, 313, 305, 3-Lab1, 3-Lab2, 3-Lab5, 3-Lab3, 3-Lab4</li>
         </ul>
@@ -118,7 +119,7 @@ sidebar:
     </tr>
       <tr>
         <td>16:30 – 17:30</td>
-        <td><b>Group Discussion (@Science Building - 科学馆)</b>
+        <td><b>Group Discussion</b>
         <ul>
           <li>@Rome 523, 512, 511-left, 511-right, 509, 313, 305, 3-Lab1, 3-Lab2, 3-Lab5, 3-Lab3, 3-Lab4</li>
         </ul>
