@@ -54,9 +54,9 @@ sidebar:
       <tr>
         <td>14:00 – 16:00</td>
         <td><b>Group Discussion (@Science Building - 科学馆)</b>
-        <ol>
+        <ul>
           <li>@Rome 523, 512, 511-left, 511-right, 509, 313, 305, 3-Lab1, 3-Lab2, 3-Lab5, 520, 509 </li>
-        </ol>
+        </ul>
         </td>
     </tr>
       <tr>
@@ -66,9 +66,9 @@ sidebar:
       <tr>
         <td>16:30 – 18:00</td>
         <td><b>Group Discussion (@Science Building - 科学馆)</b>
-        <ol>
+        <ul>
           <li>@Rome 523, 512, 511-left, 511-right, 509, 313, 305, 3-Lab1, 3-Lab2, 3-Lab5, 520, 509 </li>
-        </ol>
+        </ul>
         </td>
     </tr>
 </table>
@@ -107,9 +107,9 @@ sidebar:
       <tr>
         <td>14:00 – 16:00</td>
         <td><b>Group Discussion (@Science Building - 科学馆)</b>
-        <ol>
+        <ul>
           <li>@Rome 523, 512, 511-left, 511-right, 509, 313, 305, 3-Lab1, 3-Lab2, 3-Lab5, 3-Lab3, 3-Lab4</li>
-        </ol>
+        </ul>
         </td>
     </tr>
       <tr>
@@ -119,9 +119,9 @@ sidebar:
       <tr>
         <td>16:30 – 17:30</td>
         <td><b>Group Discussion (@Science Building - 科学馆)</b>
-        <ol>
+        <ul>
           <li>@Rome 523, 512, 511-left, 511-right, 509, 313, 305, 3-Lab1, 3-Lab2, 3-Lab5, 3-Lab3, 3-Lab4</li>
-        </ol>
+        </ul>
         </td>
     </tr>
       <tr>
@@ -168,9 +168,9 @@ sidebar:
       <tr>
         <td>14:00 – 16:00</td>
         <td><b>Group Discussion (@Science Building - 科学馆)</b>
-        <ol>
+        <ul>
           <li>@Rome 523, 512, 511-left, 511-right, 509, 313, 305, 3-Lab1, 3-Lab2, 3-Lab5, 3-Lab3, 3-Lab4</li>
-        </ol>
+        </ul>
         </td>
     </tr>
       <tr>
