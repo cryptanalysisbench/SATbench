@@ -77,7 +77,7 @@ sidebar:
 <table>
     <tr>
         <td width="180">09:00 – 10:30</td>
-        <td><b>Invited Talks (@International Conference Hall - 科学馆国际会议厅)</b>
+        <td><b>Invited Talks (@International Conference Hall - 科学馆国际会议厅)</b></br>
           Session Chair: Haoyang Wang
           <ol>
           <li>Aspects of the Design of QARMAv2, Roberto Avanzi (ARM Germany GmbH)</li>
