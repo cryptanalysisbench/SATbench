@@ -92,7 +92,7 @@ sidebar:
     </tr>
       <tr>
         <td>11:00 – 12:30</td>
-        <td><b>Invited Talks (@International Conference Hall - 科学馆国际会议厅)</b>
+        <td><b>Invited Talks (@International Conference Hall - 科学馆国际会议厅)</b></br>
           Session Chair: Shiyao Chen
           <ol>
           <li>Horst and Amaryllises: Possible Generalizations of the Feistel and of the Lai-Massey Schemes, Lorenzo Grassi (Ruhr University Bochum, Germany)</li>
