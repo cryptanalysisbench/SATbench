@@ -12,8 +12,7 @@ sidebar:
 
 # Program 
 > Note:
-> @ Lecture Hall (学术报告厅) in the morning of the first day
-> @ Science Building (科学馆) in the rest of the workshop
+> @ Lecture Hall (学术报告厅) in the morning of the first day. @ Science Building (科学馆) in the rest of the workshop.
 <!--You can find [here](https://www.google.com) a pdf version of the program.-->
 
 ## Friday, 1st December, 2023
