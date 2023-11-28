@@ -1,4 +1,4 @@
-![image](https://github.com/askworkshop/ask2023/assets/77279659/5042b6f0-34e9-44fe-b764-93a83bda299b)---
+---
 layout: single
 toc: false
 classes: wide
