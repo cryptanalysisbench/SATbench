@@ -26,8 +26,8 @@ sidebar:
     </tr>
     <tr>
         <td>09:30 – 10:30</td>
-        <td><b>Invited Talks (@Lecture Hall - 学术报告厅)</b>
-          <p>Session Chair: Wenying Zhang</p>
+        <td><p><b>Invited Talks (@Lecture Hall - 学术报告厅)</b></p>
+          Session Chair: Wenying Zhang
           <ol>
           <li>A realistic summary and projection of cryptanalysis, Jian Guo (Nanyang Technological University, Singapore)</li>
           <li>Cryptanalysis of TNT: A New Chapter in the LRW Paradigm, Mustafa Khairallah (Seagate Research Group, Singapore)</li>
