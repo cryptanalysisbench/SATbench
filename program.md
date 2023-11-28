@@ -14,7 +14,7 @@ sidebar:
 
 <!--You can find [here](https://www.google.com) a pdf version of the program.-->
 
-## Friday, 1st December, 2023 (@Lecture Hall - 学术报告厅)
+## Friday, 1st December, 2023
 <table>
     <tr>
         <td width="180">08:45 – 09:15</td>
@@ -26,7 +26,7 @@ sidebar:
     </tr>
     <tr>
         <td>09:30 – 10:30</td>
-        <td><b>Invited Talks</b></br>
+        <td><b>Invited Talks (@Lecture Hall - 学术报告厅)</b></br>
           Session Chair: Wenying Zhang
           <ol>
           <li>A realistic summary and projection of cryptanalysis, Jian Guo (Nanyang Technological University, Singapore)</li>
@@ -40,7 +40,7 @@ sidebar:
     </tr>
       <tr>
         <td>11:00 – 12:30</td>
-        <td><b>Invited Talks</b></br>
+        <td><b>Invited Talks (@Lecture Hall - 学术报告厅)</b></br>
           Session Chair: Wonseok Choi
           <ol>
           <li>Coefficient Grouping: A New Efficient Technique to Evaluate the Algebraic Degree of SPN Ciphers over F_{2^n}, Fukang Liu (Tokyo Institute of Technology, Japan)</li>
