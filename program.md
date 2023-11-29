@@ -56,11 +56,11 @@ sidebar:
     </tr>
       <tr>
         <td>14:00 – 16:00</td>
-        <td><b>Group Discussion (@ Zengxianzi Science Hall - 曾宪梓科学馆)</b>
+        <td>
+          <b>Group Discussion (@ Zengxianzi Science Hall - 曾宪梓科学馆)</b>
         <ul>
           <li>@Rome 523, 512, 511-left, 511-right, 509, 313, 305, 3-Lab1, 3-Lab2, 3-Lab5, 520, 509 </li>
         </ul>
-          
         </td>
     </tr>
       <tr>
@@ -81,7 +81,7 @@ sidebar:
 <table>
     <tr>
         <td width="180">09:00 – 10:30</td>
-        <td><p><b>Invited Talks (@International Conference Hall - 曾宪梓科学馆国际会议厅)</b></p>
+        <td><p><b>Invited Talks (@International Conference Hall - 科学馆国际会议厅)</b></p>
           Session Chair: Haoyang Wang
           <ol>
           <li>Aspects of the Design of QARMAv2, Roberto Avanzi (ARM Germany GmbH)</li>
