@@ -178,7 +178,6 @@ sidebar:
         <ul>
           <li>@ Rome 523, 512, 511-left, 511-right, 509, 313, 305, 3-Lab1, 3-Lab2, 3-Lab5, 3-Lab3, 3-Lab4</li>
         </ul>
-          
         </td>
     </tr>
       <tr>
