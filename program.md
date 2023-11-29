@@ -12,7 +12,7 @@ sidebar:
 
 # Program 
 > Note:
-> @ Lecture Hall (学术报告厅) in the morning of the first day. @ Science Building (科学馆) in the rest of the workshop.
+> @ Academic Report Hall (学术报告厅) in the morning of the first day. @ Zengxianzi Science Hall (曾宪梓科学馆) in the rest of the workshop.
 <!--You can find [here](https://www.google.com) a pdf version of the program.-->
 
 ## Friday, 1st December, 2023
@@ -27,7 +27,7 @@ sidebar:
     </tr>
     <tr>
         <td>09:30 – 10:30</td>
-        <td><p><b>Invited Talks (@Lecture Hall - 学术报告厅)</b></p>
+        <td><p><b>Invited Talks (@ Academic Report Hall - 学术报告厅)</b></p>
           Session Chair: Wenying Zhang
           <ol>
           <li>A realistic summary and projection of cryptanalysis, Jian Guo (Nanyang Technological University, Singapore)</li>
@@ -41,7 +41,7 @@ sidebar:
     </tr>
       <tr>
         <td>11:00 – 12:30</td>
-        <td><p><b>Invited Talks (@Lecture Hall - 学术报告厅)</b></p>
+        <td><p><b>Invited Talks (@ Academic Report Hall - 学术报告厅)</b></p>
           Session Chair: Wonseok Choi
           <ol>
           <li>Coefficient Grouping: A New Efficient Technique to Evaluate the Algebraic Degree of SPN Ciphers over F_{2^n}, Fukang Liu (Tokyo Institute of Technology, Japan)</li>
@@ -52,11 +52,11 @@ sidebar:
     </tr>
       <tr>
         <td>12:30 – 14:00</td>
-        <td><b>Lunch (@Minghu Restaurant - 明湖楼)</b></td>
+        <td><b>Lunch (@ Minghu Restaurant - 明湖楼)</b></td>
     </tr>
       <tr>
         <td>14:00 – 16:00</td>
-        <td><b>Group Discussion (@Science Building - 科学馆)</b>
+        <td><b>Group Discussion (@ Zengxianzi Science Hall - 曾宪梓科学馆)</b>
         <ul>
           <li>@Rome 523, 512, 511-left, 511-right, 509, 313, 305, 3-Lab1, 3-Lab2, 3-Lab5, 520, 509 </li>
         </ul>
@@ -64,11 +64,11 @@ sidebar:
     </tr>
       <tr>
         <td>16:00 – 16:30</td>
-        <td><b>Coffee Break (@Floor 3 & 5)</b></td>
+        <td><b>Coffee Break (@ Floor 3 & 5)</b></td>
     </tr>
       <tr>
         <td>16:30 – 18:00</td>
-        <td><b>Group Discussion (@Science Building - 科学馆)</b>
+        <td><b>Group Discussion (@ Zengxianzi Science Hall - 曾宪梓科学馆)</b>
         <ul>
           <li>@Rome 523, 512, 511-left, 511-right, 509, 313, 305, 3-Lab1, 3-Lab2, 3-Lab5, 520, 509 </li>
         </ul>
@@ -76,11 +76,11 @@ sidebar:
     </tr>
 </table>
 
-## Saturday, 2nd December, 2023 (@Science Building - 科学馆）
+## Saturday, 2nd December, 2023 (@ Zengxianzi Science Hall - 曾宪梓科学馆）
 <table>
     <tr>
         <td width="180">09:00 – 10:30</td>
-        <td><p><b>Invited Talks (@International Conference Hall - 科学馆国际会议厅)</b></p>
+        <td><p><b>Invited Talks (@International Conference Hall - 曾宪梓科学馆国际会议厅)</b></p>
           Session Chair: Haoyang Wang
           <ol>
           <li>Aspects of the Design of QARMAv2, Roberto Avanzi (ARM Germany GmbH)</li>
@@ -95,7 +95,7 @@ sidebar:
     </tr>
       <tr>
         <td>11:00 – 12:30</td>
-        <td><p><b>Invited Talks (@International Conference Hall - 科学馆国际会议厅)</b></p>
+        <td><p><b>Invited Talks (@ International Conference Hall - 科学馆国际会议厅)</b></p>
           Session Chair: Shiyao Chen
           <ol>
           <li>Horst and Amaryllises: Possible Generalizations of the Feistel and of the Lai-Massey Schemes, Lorenzo Grassi (Ruhr University Bochum, Germany)</li>
@@ -112,25 +112,25 @@ sidebar:
         <td>14:00 – 16:00</td>
         <td><b>Group Discussion</b>
         <ul>
-          <li>@Rome 523, 512, 511-left, 511-right, 509, 313, 305, 3-Lab1, 3-Lab2, 3-Lab5, 3-Lab3, 3-Lab4</li>
+          <li>@ Rome 523, 512, 511-left, 511-right, 509, 313, 305, 3-Lab1, 3-Lab2, 3-Lab5, 3-Lab3, 3-Lab4</li>
         </ul>
         </td>
     </tr>
       <tr>
         <td>16:00 – 16:30</td>
-        <td><b>Coffee Break (@Floor 3 & 5)</b></td>
+        <td><b>Coffee Break (@ Floor 3 & 5)</b></td>
     </tr>
       <tr>
         <td>16:30 – 17:15</td>
         <td><b>Group Discussion</b>
         <ul>
-          <li>@Rome 523, 512, 511-left, 511-right, 509, 313, 305, 3-Lab1, 3-Lab2, 3-Lab5, 3-Lab3, 3-Lab4</li>
+          <li>@ Rome 523, 512, 511-left, 511-right, 509, 313, 305, 3-Lab1, 3-Lab2, 3-Lab5, 3-Lab3, 3-Lab4</li>
         </ul>
         </td>
     </tr>
       <tr>
         <td>17:15 – 19:45</td>
-        <td><b>Banquet (@Guangzhou Restaurant - 广州酒家)</b></td>
+        <td><b>Banquet (@ Guangzhou Restaurant - 广州酒家)</b></td>
     </tr>
       <tr>
         <td>19:45 – 22:00</td>
@@ -138,12 +138,12 @@ sidebar:
     </tr>
 </table>
 
-## Sunday, 3rd December, 2023 (@Science Building - 科学馆）
+## Sunday, 3rd December, 2023 (@ Zengxianzi Science Hall - 曾宪梓科学馆）
 
 <table>
     <tr>
         <td width="180">09:00 – 10:30</td>
-        <td><p><b>Invited Talks (@International Conference Hall - 科学馆国际会议厅)</b></p>
+        <td><p><b>Invited Talks (@ International Conference Hall - 科学馆国际会议厅)</b></p>
           Session Chair: Eik List
           <ol>
           <li>Improved Fast Correlation Attacks on the Sosemanuk Stream Cipher, Bin Zhang (Institute of Software, Chinese Academy of Science, China)</li>
@@ -158,7 +158,7 @@ sidebar:
     </tr>
       <tr>
         <td>11:00 – 12:30</td>
-        <td><p><b>Invited Talks (@International Conference Hall - 科学馆国际会议厅)</b></p>
+        <td><p><b>Invited Talks (@ International Conference Hall - 科学馆国际会议厅)</b></p>
           Session Chair: Hailun Yan
           <ol>
           <li>Compact Circuits for Efficient Möbius Transform, Subhadeep Banik (University of Lugano, Switzerland)</li>
@@ -169,23 +169,23 @@ sidebar:
     </tr>
       <tr>
         <td>12:30 – 14:00</td>
-        <td><b>Lunch (@Minghu Restaurant - 明湖楼)</b></td>
+        <td><b>Lunch (@ Minghu Restaurant - 明湖楼)</b></td>
     </tr>
       <tr>
         <td>14:00 – 16:00</td>
         <td><b>Group Discussion</b>
         <ul>
-          <li>@Rome 523, 512, 511-left, 511-right, 509, 313, 305, 3-Lab1, 3-Lab2, 3-Lab5, 3-Lab3, 3-Lab4</li>
+          <li>@ Rome 523, 512, 511-left, 511-right, 509, 313, 305, 3-Lab1, 3-Lab2, 3-Lab5, 3-Lab3, 3-Lab4</li>
         </ul>
         </td>
     </tr>
       <tr>
         <td>16:00 – 16:30</td>
-        <td><b>Coffee Break (@Floor 2)</b></td>
+        <td><b>Coffee Break (@ Floor 2)</b></td>
     </tr>
       <tr>
         <td>16:30 – 17:30</td>
-        <td><b>Wrap Up Of Each Group (@International Conference Hall - 科学馆国际会议厅)</b></td>
+        <td><b>Wrap Up Of Each Group (@ International Conference Hall - 科学馆国际会议厅)</b></td>
     </tr>
       <tr>
         <td>17:30 – 17:35</td>
