@@ -135,7 +135,7 @@ sidebar:
     </tr>
       <tr>
         <td>19:45 – 22:00</td>
-        <td><b>Pearl River Night Cruise (@Dashatou Cruise Terminal - 大沙头码头)</b></td>
+        <td><b>Pearl River Night Cruise (@ Dashatou Cruise Terminal - 大沙头码头)</b></td>
     </tr>
 </table>
 
