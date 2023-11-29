@@ -178,7 +178,7 @@ sidebar:
         <ul>
           <li>@ Rome 523, 512, 511-left, 511-right, 509, 313, 305, 3-Lab1, 3-Lab2, 3-Lab5, 3-Lab3, 3-Lab4</li>
         </ul>
-          <table><tr><th>Group</th><td>Place</td><td>Group</td><td>Place </td></tr><tr><th>Group 1</th><td>523</td><td>Group 2-1</td><td>512 </td></tr><tr><th>Group 2-2</th><td>511-left</td><td>Group 2-3</td><td>511-right </td></tr><tr><th>Group 2-4</th><td>509</td><td>Group 2-5</td><td>313 </td></tr><tr><th>Group 3-1</th><td>3-Lab5</td><td>Group 3-2</td><td>3-Lab3 </td></tr><tr><th>Group 4-1</th><td>305</td><td>Group 4-2</td><td>3-Lab4 </td></tr><tr><th>Group 5</th><td>3-Lab1</td><td>Group 6</td><td>3-Lab2 </td></tr></table>
+          
         </td>
     </tr>
       <tr>
