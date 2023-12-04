@@ -31,7 +31,7 @@ sidebar:
           Session Chair: Wenying Zhang
           <ol>
           <li>A realistic summary and projection of cryptanalysis, Jian Guo (Nanyang Technological University, Singapore)</li>
-          <li> <a style="text-decoration: none;" href="https://askworkshop.github.io/ask2023/assets/accessory/ASK2023-CryptanalysisofTNT-website%20version.pdf">📄</a> Cryptanalysis of TNT: A New Chapter in the LRW Paradigm, Mustafa Khairallah (Seagate Research Group, Singapore) </li>
+          <li>Cryptanalysis of TNT: A New Chapter in the LRW Paradigm, Mustafa Khairallah (Seagate Research Group, Singapore) <a style="text-decoration: none;" href="https://askworkshop.github.io/ask2023/assets/accessory/ASK2023-CryptanalysisofTNT-website%20version.pdf">[slides]</a></li>
           </ol>
         </td>
     </tr>
