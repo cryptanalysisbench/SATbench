@@ -101,7 +101,7 @@ sidebar:
           <ol>
           <li>Horst and Amaryllises: Possible Generalizations of the Feistel and of the Lai-Massey Schemes, Lorenzo Grassi (Ruhr University Bochum, Germany) <a style="text-decoration: none;" href="https://askworkshop.github.io/ask2023/assets/accessory/presentationASK23.pdf">[slides]</a></li>
           <li>Speeding Up Preimage and Key-Recovery Attacks with Differential-Linear Approximations, Siwei Sun (University of Chinese Academy of Sciences, China)</li>
-          <li>Unboxing ARX-based White-Box Ciphers: Chosen-Plaintext Computation Analysis and Its Applications, Zheng Gong (South China Normal University, China)  <a style="text-decoration: none;" href="https://askworkshop.github.io/ask2023/assets/accessory/ASK_2023_slides__Unboxing_ARX_based_White_Box_Ciphers.pdf">[slides]</a></li>
+          <li>Unboxing ARX-based White-Box Ciphers: Chosen-Plaintext Computation Analysis and Its Applications, Zheng Gong (South China Normal University, China)  <a style="text-decoration: none;" href="https://askworkshop.github.io/ask2023/assets/accessory/ASK_2023_Slides__Unboxing_ARX_based_White_Box_Ciphers.pdf">[slides]</a></li>
           </ol>
         </td>
     </tr>
