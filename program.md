@@ -44,9 +44,9 @@ sidebar:
         <td><p><b>Invited Talks (@ Academic Report Hall - 学术报告厅)</b></p>
           Session Chair: Wonseok Choi
           <ol>
-          <li>Coefficient Grouping: A New Efficient Technique to Evaluate the Algebraic Degree of SPN Ciphers over F_{2^n}, Fukang Liu (Tokyo Institute of Technology, Japan)</li>
-          <li>A new proof framework for post-quantum security of symmetric-key schemes, Ritam Bhaumik (EPFL, Switzerland)</li>
-          <li>Masking implementations of symmetric crypto in a low noise environment : analysis and evaluation, Loic Masure (Université de Montpellier, France)</li>
+          <li>Coefficient Grouping: A New Efficient Technique to Evaluate the Algebraic Degree of SPN Ciphers over F_{2^n}, Fukang Liu (Tokyo Institute of Technology, Japan)  <a style="text-decoration: none;" href="https://askworkshop.github.io/ask2023/assets/accessory/coefficient_grouping__a_new_technique_ask2023.pdf">[slides]</a> </li>
+          <li>A new proof framework for post-quantum security of symmetric-key schemes, Ritam Bhaumik (EPFL, Switzerland) <a style="text-decoration: none;" href="https://askworkshop.github.io/ask2023/assets/accessory/ritam-slides-ask-2023.pdf">[slides]</a> </li>
+          <li>Masking implementations of symmetric crypto in a low noise environment : analysis and evaluation, Loic Masure (Université de Montpellier, France) <a style="text-decoration: none;" href="slides-loic.pdf">[slides]</a></li>
           </ol>
         </td>
     </tr>
@@ -84,9 +84,9 @@ sidebar:
         <td><p><b>Invited Talks (@International Conference Hall - 科学馆国际会议厅)</b></p>
           Session Chair: Haoyang Wang
           <ol>
-          <li>Aspects of the Design of QARMAv2, Roberto Avanzi (ARM Germany GmbH)</li>
+          <li>Aspects of the Design of QARMAv2, Roberto Avanzi (ARM Germany GmbH)  <a style="text-decoration: none;" href="https://askworkshop.github.io/ask2023/assets/accessory/qarmav2-presentation-shorter-website-version.pdf">[slides]</a></li>
           <li>Automating the key recovery in differential attacks: A new algorithm and tool, Christina Boura (Université Versailles Saint-Quentin-en-Yvelines, Université Paris-Saclay, France)</li>
-          <li>Cascading Four Round LRW1 is Beyond Birthday Bound Secure, Avijit Dutta (Institute for Advancing Intelligence, TCG CREST, India)</li>
+          <li>Cascading Four Round LRW1 is Beyond Birthday Bound Secure, Avijit Dutta (Institute for Advancing Intelligence, TCG CREST, India) <a style="text-decoration: none;" href="https://askworkshop.github.io/ask2023/assets/accessory/ASK2023-avijit.pdf">[slides]</a></li>
           </ol>
         </td>
     </tr>
@@ -99,9 +99,9 @@ sidebar:
         <td><p><b>Invited Talks (@ International Conference Hall - 科学馆国际会议厅)</b></p>
           Session Chair: Shiyao Chen
           <ol>
-          <li>Horst and Amaryllises: Possible Generalizations of the Feistel and of the Lai-Massey Schemes, Lorenzo Grassi (Ruhr University Bochum, Germany)</li>
+          <li>Horst and Amaryllises: Possible Generalizations of the Feistel and of the Lai-Massey Schemes, Lorenzo Grassi (Ruhr University Bochum, Germany) <a style="text-decoration: none;" href="https://askworkshop.github.io/ask2023/assets/accessory/presentationASK23.pdf">[slides]</a></li>
           <li>Speeding Up Preimage and Key-Recovery Attacks with Differential-Linear Approximations, Siwei Sun (University of Chinese Academy of Sciences, China)</li>
-          <li>Unboxing ARX-based White-Box Ciphers: Chosen-Plaintext Computation Analysis and Its Applications, Zheng Gong (South China Normal University, China)</li>
+          <li>Unboxing ARX-based White-Box Ciphers: Chosen-Plaintext Computation Analysis and Its Applications, Zheng Gong (South China Normal University, China)  <a style="text-decoration: none;" href="https://askworkshop.github.io/ask2023/assets/accessory/ASK_2023_Slides__Unboxing_ARX_based_White_Box_Ciphers.pdf">[slides]</a></li>
           </ol>
         </td>
     </tr>
@@ -147,9 +147,9 @@ sidebar:
         <td><p><b>Invited Talks (@ International Conference Hall - 科学馆国际会议厅)</b></p>
           Session Chair: Eik List
           <ol>
-          <li>Improved Fast Correlation Attacks on the Sosemanuk Stream Cipher, Bin Zhang (Institute of Software, Chinese Academy of Science, China)</li>
-          <li>Differential Meet-in-the-middle attacks and Models, Patrick Derbez (University of Rennes, France)</li>
-          <li>Fine-Tuning Ideal Worlds for the Xor of Two Permutation Outputs, Wonseok Choi (Purdue University, USA)</li>
+          <li>Improved Fast Correlation Attacks on the Sosemanuk Stream Cipher, Bin Zhang (Institute of Software, Chinese Academy of Science, China)  <a style="text-decoration: none;" href="https://askworkshop.github.io/ask2023/assets/accessory/2023_ask_sosemanuk.pdf">[slides]</a></li>
+          <li>Differential Meet-in-the-middle attacks and Models, Patrick Derbez (University of Rennes, France) <a style="text-decoration: none;" href="https://askworkshop.github.io/ask2023/assets/accessory/slidesPatrickD.pdf">[slides]</a></li>
+          <li>Fine-Tuning Ideal Worlds for the Xor of Two Permutation Outputs, Wonseok Choi (Purdue University, USA) <a style="text-decoration: none;" href="https://askworkshop.github.io/ask2023/assets/accessory/Presentation__Fine_Tuning_Ideal_Worlds_.pdf">[slides]</a></li>
           </ol>
         </td>
     </tr>
@@ -162,9 +162,9 @@ sidebar:
         <td><p><b>Invited Talks (@ International Conference Hall - 科学馆国际会议厅)</b></p>
           Session Chair: Hailun Yan
           <ol>
-          <li>Compact Circuits for Efficient Möbius Transform, Subhadeep Banik (University of Lugano, Switzerland)</li>
-          <li>Efficient Higher-Order Masking Schemes: Leveraging Amortization and Pre-computation, Weijia Wang (Shandong University, China)</li>
-          <li>CLAASP: a Cryptographic Library for the Automated Analysis of Symmetric Primitives, Juan Grados and Mohamed Rachidi (Technology Innovation Institute, United Arab Emirate)</li>
+          <li>Compact Circuits for Efficient Möbius Transform, Subhadeep Banik (University of Lugano, Switzerland) <a style="text-decoration: none;" href="https://askworkshop.github.io/ask2023/assets/accessory/ask23-Banik.pdf">[slides]</a></li>
+          <li>Efficient Higher-Order Masking Schemes: Leveraging Amortization and Pre-computation, Weijia Wang (Shandong University, China) <a style="text-decoration: none;" href="https://askworkshop.github.io/ask2023/assets/accessory/ASK2023_Weijia.pdf">[slides]</a></li>
+          <li>CLAASP: a Cryptographic Library for the Automated Analysis of Symmetric Primitives, Juan Grados and Mohamed Rachidi (Technology Innovation Institute, United Arab Emirate)  <a style="text-decoration: none;" href="https://askworkshop.github.io/ask2023/assets/accessory/ASK_slides-juan.pdf">[slides]</a></li>
           </ol>
         </td>
     </tr>
