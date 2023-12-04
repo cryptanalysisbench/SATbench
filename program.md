@@ -85,7 +85,7 @@ sidebar:
           Session Chair: Haoyang Wang
           <ol>
           <li>Aspects of the Design of QARMAv2, Roberto Avanzi (ARM Germany GmbH)  <a style="text-decoration: none;" href="https://askworkshop.github.io/ask2023/assets/accessory/qarmav2-presentation-shorter-website-version.pdf">[slides]</a></li>
-          <li>Automating the key recovery in differential attacks: A new algorithm and tool, Christina Boura (Université Versailles Saint-Quentin-en-Yvelines, Université Paris-Saclay, France)</li>
+          <li>Automating the key recovery in differential attacks: A new algorithm and tool, Christina Boura (Université Versailles Saint-Quentin-en-Yvelines, Université Paris-Saclay, France) <a style="text-decoration: none;" href="https://askworkshop.github.io/ask2023/assets/accessory/Boura-ASK2023.pdf">[slides]</a></li>
           <li>Cascading Four Round LRW1 is Beyond Birthday Bound Secure, Avijit Dutta (Institute for Advancing Intelligence, TCG CREST, India) <a style="text-decoration: none;" href="https://askworkshop.github.io/ask2023/assets/accessory/ASK2023-avijit.pdf">[slides]</a></li>
           </ol>
         </td>
