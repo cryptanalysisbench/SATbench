@@ -46,7 +46,7 @@ sidebar:
           <ol>
           <li>Coefficient Grouping: A New Efficient Technique to Evaluate the Algebraic Degree of SPN Ciphers over F_{2^n}, Fukang Liu (Tokyo Institute of Technology, Japan)  <a style="text-decoration: none;" href="https://askworkshop.github.io/ask2023/assets/accessory/coefficient_grouping__a_new_technique_ask2023.pdf">[slides]</a> </li>
           <li>A new proof framework for post-quantum security of symmetric-key schemes, Ritam Bhaumik (EPFL, Switzerland) <a style="text-decoration: none;" href="https://askworkshop.github.io/ask2023/assets/accessory/ritam-slides-ask-2023.pdf">[slides]</a> </li>
-          <li>Masking implementations of symmetric crypto in a low noise environment : analysis and evaluation, Loic Masure (Université de Montpellier, France) <a style="text-decoration: none;" href="slides-loic.pdf">[slides]</a></li>
+          <li>Masking implementations of symmetric crypto in a low noise environment : analysis and evaluation, Loic Masure (Université de Montpellier, France) <a style="text-decoration: none;" href="https://askworkshop.github.io/ask2023/assets/accessory/slides-loic.pdf">[slides]</a></li>
           </ol>
         </td>
     </tr>
