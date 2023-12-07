@@ -193,3 +193,6 @@ sidebar:
         <td><b>Closing Remarks</b></td>
     </tr>
 </table>
+
+# Picture
+<img src="https://askworkshop.github.io/ask2023/assets/images/picture.jpg" class="text-align:center;" />
