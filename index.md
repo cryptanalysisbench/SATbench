@@ -31,7 +31,7 @@ The general co-chairs can be contacted by email at ask2023(at)googlegroups(dot)c
 
 ## General & Program Chairs
 <ul>
-<li>Yaobin Shen(Université catholique de Louvain)</li>
+<li>Yaobin Shen(Xiamen University, Xiamen, China)</li>
 <li>Ling Song(Jinan University, Guangzhou, China)</li>
 </ul>
 
