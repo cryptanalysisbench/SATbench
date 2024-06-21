@@ -1,5 +1,15 @@
+---
+layout: single
+toc: false
+classes: wide
+sidebar:  
+  - title: " "   
+    image: /assets/images/logo.png
+    image_alt: "image"
+    nav: "docs"
+---
 
-
+# Related Publications
 
 - Chandranan Dhar, Jordan Ethan, Ravindra Jejurikar, Mustafa Khairallah, Eik List, Sougata Mandal: Context-Committing Security of Leveled Leakage-Resilient AEAD. IACR Transactions on Symmetric Cryptology, 2024(2), 348–370. 
 - Jinliang Wang, Christina BouraPatrick Derbez, Kai Hu, Muzhou Li, Meiqin Wang: Cryptanalysis of Full-Round BipBip. IACR Transactions on Symmetric Cryptology, 2024(2), 68–84.
