@@ -9,54 +9,41 @@ sidebar:
     nav: "docs"
 ---
 
-Welcome to the home page of the **10th Asian Workshop on Symmetric Key Cryptography**. This workshop will be held on three days at **Jinan University, Shipai Campus, Guangzhou, China**, starting on **December 1st until December 3rd, 2023**. The workshop will be held just before [ASIACRYPT 2023](https://asiacrypt.iacr.org/2023/).
+Welcome to the home page of the **1st Workshop on Symmetric-key Cryptanalysis Automation and Modelling**. This workshop will be held on one day at **Università degli Studi Roma Tre, Rome, Italy**, the **15th of March 2025**. The workshop will be held just before [FSE 2025](https://fse.iacr.org/2025/).
 
-ASK has been held to promote research on symmetric-key cryptography in Asia since 2011. Broadly, the scope of the workshop includes, but is not limited to:
+SKCAM is held to promote research on all domains related to the automation and modelling of cryptanalysis on symmetric-key primitives. Broadly, the scope of the workshop includes, but is not limited to:
+* Implementation and general development of automated tools for cryptanalysis
+* New or improved cryptanalysis modelling techniques 
+* Algorithmic considerations of automated cryptanalysis
 
-* Primitive design: block ciphers, stream ciphers, hash functions, (cryptographic) permutations etc.
-* Cryptanalysis of cryptographic primitives.
-* Design and analysis of mode of operation: (authenticated) encryption schemes, message authentication codes etc.
-* Symmetric crypto with public-key applications (MPC, zero knowledge, FHE, etc.)
-* (Post)-Quantum symmetric-key schemes.
-* Implementation of symmetric-key schemes.
-
-The program will contain mainly two parts: **invited talks** in the mornings, and **group discussions** in the afternoons. For group discussions, we plan to have several small groups, and for each group, we aim to gather researchers who are all interested in one specific topic. The goal of the group discussion is to advance the collaborations within the research community, and to find new results through discussions.
-
-You can find previous ASK workshops [here](https://askworkshop.github.io/ask/).
+The program contains invited talks and discussion sessions. Any researcher is welcome to contact us to participate. 
 
 
 # Contact information
 
 The general co-chairs can be contacted by email at ask2023(at)googlegroups(dot)com.
 
-## General & Program Chairs
+## Organizers
+, , , , 
 <ul>
-<li>Yaobin Shen(Xiamen University, Xiamen, China)</li>
-<li>Ling Song(Jinan University, Guangzhou, China)</li>
+<li>Emanuele Bellini (Technology Innovation Institute, Abu Dhabi, UAE)</li>
+<li>Patrick Derbez (Inria, Rennes, France)</li>
+<li>Maria Naya-Plasencia (Inria, Paris, France)</li>
+<li>Marco Pedicini (Roma Tre University, Rome, Italy)</li>
+<li>Thomas Peyrin (Nanyang Technological University, Singapore, France)</li>
+
 </ul>
 
-## Organizers
-
-
-<div class="imgcot">
-  <a class="imgitm" href="https://www.jnu.edu.cn/main.htm"><img border="0" src="https://askworkshop.github.io/ask2023/assets/images/jnu.png" height="130" width="130" /></a>
-  <a class="imgitm" href="https://www.xmu.edu.cn/"><img border="0" src="https://askworkshop.github.io/ask2023/assets/images/xmu.png" height="130" width="130" /></a>
-</div>
-
-## Co-organizers
-
-<div class="imgcot">
-  <a class="imgitm" href=""><img border="0" src="https://askworkshop.github.io/ask2023/assets/images/sjtu.png" height="130" width="130" /></a>
-  <a class="imgitm" href="https://www.cacrnet.org.cn/"><img border="0" src="https://askworkshop.github.io/ask2023/assets/images/cacr.png" height="130" width="130" /></a>
-</div>
-
-
+## Sponsors
 
 We are very grateful to the following organizations who generously sponsored the event.
 
-{% include gallery layout="row" caption="Sponsors List" %} 
-{: width="130px" } ![rennes](https://github.com/user-attachments/assets/4643a363-d37a-44a9-bd65-6c3dac399f69) {: width="130px" }
-{: width="130px" } ![TII](https://github.com/user-attachments/assets/2a9853bf-70d3-4aa5-a877-a9535cda8189) {: width="130px" }
-{: width="130px" } ![inria](https://github.com/user-attachments/assets/f1c891fe-49b2-4e51-acf8-f292833566e5) {: width="130px" }
-{: width="130px" } ![roma](https://github.com/user-attachments/assets/8631e963-d021-40a4-aab6-9f14ef1f432c) {: width="130px" }
+<div class="imgcot">
+  <a class="imgitm" href="https://www.univ-rennes.fr"><img border="0" src="https://skcamworkshop.github.io/skcam2025/assets/images/rennes.png" height="130" width="130" /></a>
+  <a class="imgitm" href="https://www.inria.fr"><img border="0" src="https://skcamworkshop.github.io/skcam2025/assets/images/inria.png" height="130" width="130" /></a>
+  <a class="imgitm" href="https://www.tii.ae"><img border="0" src="https://skcamworkshop.github.io/skcam2025/assets/images/TII.png" height="130" width="130" /></a>
+  <a class="imgitm" href="https://www.uniroma3.it"><img border="0" src="https://skcamworkshop.github.io/skcam2025/assets/images/roma.png" height="130" width="130" /></a>
+</div>
+
+
 
