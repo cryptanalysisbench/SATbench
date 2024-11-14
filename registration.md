@@ -11,8 +11,9 @@ sidebar:
 
 # Registration
 
-The registration fee is free, but the workshop will nevertheless provide lunches and coffee breaks. The registration is completed by exchanging emails, and an interested party is invited to send an email to the [organizers](https://askworkshop.github.io/ask2023/#contact-information) stipulating:
-
-Full name, Nationality, Institute
+The registration fee is free, but the workshop will nevertheless provide lunch and coffee breaks. The registration is completed by exchanging emails, and an interested party is invited to send an email to the [organizers](https://skcamworkshop.github.io/skcam2025/#contact-information) stipulating:
+* Full name
+* Nationality
+* Institute
 
 Since the workshop has limited capacity and funding, we may not be able to accept all the registration requests. The workshop reserves the right not to accept the registration request.
