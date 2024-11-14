@@ -24,7 +24,7 @@ The program contains invited talks and discussion sessions. Any researcher is we
 The general co-chairs can be contacted by email at ask2023(at)googlegroups(dot)com.
 
 ## Organizers
-, , , , 
+
 <ul>
 <li>Emanuele Bellini (Technology Innovation Institute, Abu Dhabi, UAE)</li>
 <li>Patrick Derbez (Inria, Rennes, France)</li>
@@ -39,10 +39,10 @@ The general co-chairs can be contacted by email at ask2023(at)googlegroups(dot)c
 We are very grateful to the following organizations who generously sponsored the event.
 
 <div class="imgcot">
-  <a class="imgitm" href="https://www.univ-rennes.fr"><img border="0" src="https://skcamworkshop.github.io/skcam2025/assets/images/rennes.png" height="130" width="130" /></a>
-  <a class="imgitm" href="https://www.inria.fr"><img border="0" src="https://skcamworkshop.github.io/skcam2025/assets/images/inria.png" height="130" width="130" /></a>
-  <a class="imgitm" href="https://www.tii.ae"><img border="0" src="https://skcamworkshop.github.io/skcam2025/assets/images/TII.png" height="130" width="130" /></a>
-  <a class="imgitm" href="https://www.uniroma3.it"><img border="0" src="https://skcamworkshop.github.io/skcam2025/assets/images/roma.png" height="130" width="130" /></a>
+  <a class="imgitm" href="https://www.univ-rennes.fr"><img border="0" src="https://skcamworkshop.github.io/skcam2025/assets/images/rennes.png" height="289" width="130" /></a>
+  <a class="imgitm" href="https://www.inria.fr"><img border="0" src="https://skcamworkshop.github.io/skcam2025/assets/images/inria.png" height="208" width="130" /></a>
+  <a class="imgitm" href="https://www.tii.ae"><img border="0" src="https://skcamworkshop.github.io/skcam2025/assets/images/TII.png" height="236" width="130" /></a>
+  <a class="imgitm" href="https://www.uniroma3.it"><img border="0" src="https://skcamworkshop.github.io/skcam2025/assets/images/roma.png" height="236" width="130" /></a>
 </div>
 
 
