@@ -11,7 +11,7 @@ sidebar:
 
 # Registration
 
-The registration fee is free, but the workshop will nevertheless provide lunch and coffee breaks. The registration is completed by exchanging emails, and an interested party is invited to send an email to the organizers (skcam2025(at)googlegroups(dot)com) stipulating:
+The registration fee is free, but the workshop will nevertheless provide lunch and coffee breaks. The registration is completed by exchanging emails, and an interested party is invited to send an email to the organizers (skcam(at)googlegroups(dot)com) stipulating:
 * Full name
 * Nationality
 * Institute
