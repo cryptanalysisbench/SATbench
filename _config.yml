@@ -17,13 +17,13 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "The 10th Asian-workshop on Symmetric Key Cryptography (ASK 2023)"
+title                    : "The 1st Workshop on Symmetric-key Cryptanalysis Automation and Modelling (SKCAM 2025)"
 title_separator          : "-"
-name                     : "ASK"
-description              : "The website of the 10th Asian-workshop on Symmetric Key Cryptography (ASK)"
-url                      : "https://askworkshop.github.io/ask2023/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/ask2023" # the subpath of your site, e.g. "/blog"
-repository               : "askworkshop/ask2023" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+name                     : "SKCAM 2025"
+description              : "The website of the 1st Workshop on Symmetric-key Cryptanalysis Automation and Modelling (SKCAM 2025)"
+url                      : "https://skcamworkshop.github.io/skcam2025/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/skcam2025" # the subpath of your site, e.g. "/blog"
+repository               : "skcamworkshop/skcam2025" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 //teaser                   : "/assets/images/logo.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 //logo                     : "/assets/images/logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -107,7 +107,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "ASK"
+  name             : "SKCAM"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : 
   location         : 
