@@ -3,46 +3,18 @@ main:
     url: /
   - title: "Program"
     url: /program/
-  - title: "Group Sessions"
-    url: /groups/
   - title: "Venue"
     url: /travel/
 
 docs:    
   - title: Home
     url: /
-
-  - title: Event
-    children:
-    - title: Program
-      url: /program/
-    - title: Invited Speakers
-      url: /invited/
-    - title: Group Sessions
-      url: /groups/
-    - title: Contact
-      url: /#contact-information
-    - title: Related Publications
-      url: /related/
-        
+  - title: Program
+    url: /program/
+  - title: Venue and Travel
+    url: /travel/
   - title: Registration
     url: /registration/
-
-  - title: Practical Information
-    children:
-#    - title: Venue
-#      url: /venue/
-    - title: Venue and Travel
-      url: /travel/
-    - title: Accommodation
-      url: /accommodation/
-      
-  - title: Appendix
-    children:
-    - title: 会议通知
-      url: /assets/accessory/ASK2023%20Conference%20Notice.pdf
-
-
   - title: Previous Workshops 
-    url: "https://askworkshop.github.io/ask/"
+    url: "https://skcamworkshop.github.io/skcam/"
 
