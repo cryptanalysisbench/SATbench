@@ -11,9 +11,7 @@ sidebar:
 
 # Venue
 
- ASK 2023 will be held in Jinan University, Guangzhou, China    
- Address: Jinan University Science Building, Tianhe District, Guangzhou, Guangdong Province, China, 510632
+ SKCAM 2025 will be held in Università degli Studi Roma Tre, in Rome, Italy.  
+ Address: Università degli Studi Roma Tre, Aula Urbano VIII, Palazzo Argiletum, Via della Madonna dei Monti, 40, 00184 Roma, Italy
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14676.612710252562!2d113.32928841517109!3d23.128075662574126!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3402ffb26425db7f%3A0x84267ce375ce149d!2sJinan%20University!5e0!3m2!1sen!2ssg!4v1690263291313!5m2!1sen!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
-<!--![Getting to Jinan University]()-->
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3058.883483236663!2d12.486539761661923!3d41.8941443642895!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x132f61b17b1bd917%3A0xe7d4a9d81c7ed704!2sUniversit%C3%A0%20degli%20Studi%20Roma%20Tre%20-%20Architettura!5e1!3m2!1sfr!2ssg!4v1731621188026!5m2!1sfr!2ssg" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
