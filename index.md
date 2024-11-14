@@ -16,12 +16,11 @@ SKCAM is held to promote research on all domains related to the automation and m
 * New or improved cryptanalysis modelling techniques 
 * Algorithmic considerations of automated cryptanalysis
 
-The program contains invited talks and discussion sessions. Any researcher is welcome to contact us to participate. 
+The program contains invited talks and discussion sessions. Any researcher is welcome to contact us to participate.   
 
+## Contact information
 
-# Contact information
-
-The general co-chairs can be contacted by email at ask2023(at)googlegroups(dot)com.
+The general co-chairs can be contacted by email at skcam2025(at)googlegroups(dot)com.
 
 ## Organizers
 
@@ -39,9 +38,9 @@ The general co-chairs can be contacted by email at ask2023(at)googlegroups(dot)c
 We are very grateful to the following organizations who generously sponsored the event.
 
 <div class="imgcot">
-  <a class="imgitm" href="https://www.univ-rennes.fr"><img border="0" src="https://skcamworkshop.github.io/skcam2025/assets/images/rennes.png" height="289" width="130" /></a>
   <a class="imgitm" href="https://www.inria.fr"><img border="0" src="https://skcamworkshop.github.io/skcam2025/assets/images/inria.png" height="208" width="130" /></a>
   <a class="imgitm" href="https://www.tii.ae"><img border="0" src="https://skcamworkshop.github.io/skcam2025/assets/images/TII.png" height="236" width="130" /></a>
+  <a class="imgitm" href="https://www.univ-rennes.fr"><img border="0" src="https://skcamworkshop.github.io/skcam2025/assets/images/rennes.png" height="289" width="130" /></a>
   <a class="imgitm" href="https://www.uniroma3.it"><img border="0" src="https://skcamworkshop.github.io/skcam2025/assets/images/roma.png" height="236" width="130" /></a>
 </div>
 
