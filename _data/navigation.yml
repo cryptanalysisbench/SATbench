@@ -4,7 +4,7 @@ main:
   - title: "Program"
     url: /program/
   - title: "Venue"
-    url: /travel/
+    url: /venue/
 
 docs:    
   - title: Home
@@ -12,7 +12,7 @@ docs:
   - title: Program
     url: /program/
   - title: Venue and Travel
-    url: /travel/
+    url: /venue/
   - title: Registration
     url: /registration/
   - title: Previous Workshops 
