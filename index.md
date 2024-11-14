@@ -20,7 +20,7 @@ The program contains invited talks and discussion sessions. Any researcher is we
 
 ## Contact information
 
-The general co-chairs can be contacted by email at skcam2025(at)googlegroups(dot)com.
+The general co-chairs can be contacted by email at skcam(at)googlegroups(dot)com.
 
 ## Organizers
 
