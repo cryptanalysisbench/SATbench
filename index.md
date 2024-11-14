@@ -52,6 +52,11 @@ The general co-chairs can be contacted by email at ask2023(at)googlegroups(dot)c
 
 
 
+We are very grateful to the following organizations who generously sponsored the event.
 
+{% include gallery layout="row" caption="Sponsors List" %} 
+{: width="130px" } ![rennes](https://github.com/user-attachments/assets/4643a363-d37a-44a9-bd65-6c3dac399f69) {: width="130px" }
+{: width="130px" } ![TII](https://github.com/user-attachments/assets/2a9853bf-70d3-4aa5-a877-a9535cda8189) {: width="130px" }
+{: width="130px" } ![inria](https://github.com/user-attachments/assets/f1c891fe-49b2-4e51-acf8-f292833566e5) {: width="130px" }
+{: width="130px" } ![roma](https://github.com/user-attachments/assets/8631e963-d021-40a4-aab6-9f14ef1f432c) {: width="130px" }
 
-<!-- <a class="imgitm" href="https://www.xmu.edu.cn/"><img border="0" src="https://askworkshop.github.io/ask2023/assets/images/xmu.png" height="130" width="130" /></a> -->
