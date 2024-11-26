@@ -38,7 +38,7 @@ The general co-chairs can be contacted by email at skcam(at)googlegroups(dot)com
 We are very grateful to the following organizations who generously sponsored the event.
 
 <div class="imgcot">
-  <a class="imgitm" href="https://www.inria.fr"><img border="0" src="https://skcamworkshop.github.io/skcam2025/assets/images/ERC.png" height="130" width="130" /></a>
+  <a class="imgitm" href="https://erc.europa.eu/homepage"><img border="0" src="https://skcamworkshop.github.io/skcam2025/assets/images/ERC.png" height="120" width="120" /></a>
   <a class="imgitm" href="https://www.inria.fr"><img border="0" src="https://skcamworkshop.github.io/skcam2025/assets/images/inria.png" height="208" width="130" /></a>
   <a class="imgitm" href="https://www.tii.ae"><img border="0" src="https://skcamworkshop.github.io/skcam2025/assets/images/TII.png" height="236" width="130" /></a>
   <a class="imgitm" href="https://www.univ-rennes.fr"><img border="0" src="https://skcamworkshop.github.io/skcam2025/assets/images/rennes.png" height="289" width="130" /></a>
