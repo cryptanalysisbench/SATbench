@@ -22,9 +22,17 @@ sidebar:
         <td>09:00 – 10:30</td>
         <td><p><b>Session 1 (Session Chair: TBD)</b></p>
           <ol>
-          <li>DojoCrypt platform tutorial, Emanuele Bellini (Technology Innovation Institute, UAE)</li>
-          <li>CLAASP tutorial and updates, Juan Grados (Technology Innovation Institute, UAE)</li>
-          <li>Neural cryptanalysis, David Gerault (Technology Innovation Institute, UAE)</li>
+          <li>  
+            <details>
+    <summary>DojoCrypt platform tutorial </summary>
+    Abstract: In this tutorial, we introduce DojoCrypt, an experimental cloud-based platform designed to streamline cryptography and cryptanalysis research and development. Offering a pre-configured environment with powerful tools—including cryptanalysis frameworks (e.g. CLAASP, TAGADA, CASCADA, CryptoSMT), hacking utilities (e.g. John-the-Reaper, Hashcat), mathematical libraries (e.g. SageMath), and AI-powered solutions—DojoCrypt eliminates the complexity of software setup and resource management. 
+To showcase DojoCrypt’s capabilities for both teaching and research, we demonstrate its integration with the CLAASP library—a SageMath-based suite designed to simplify the analysis of symmetric primitives. After a brief overview of CLAASP, we implement a basic toy cipher and execute various cryptanalysis routines, such as statistical testing, linear/differential trail searches, algebraic modeling, and result visualization, all achieved in a few lines of code.
+            </details>
+            Emanuele Bellini (Technology Innovation Institute, UAE)</li>
+          <li>CLAASP tutorial and updates    
+            Juan Grados (Technology Innovation Institute, UAE)</li>
+          <li>Neural cryptanalysis     
+            David Gerault (Technology Innovation Institute, UAE)</li>
           </ol>
         </td>
     </tr>
@@ -69,10 +77,6 @@ sidebar:
           <li>Minimalist model for Impossible Differentials, Patrick Derbez (Centre Inria de l'Université de Rennes, France)</li>
           <li>Open Cryptanalysis Platform (OCP) -  A New Collaborative Effort for Automated Cryptanalysis, Thomas Peyrin (Nanyang Technological University, Singapore)</li>  
           </ol>
-          <details>
-    <summary>Toggle Switch</summary>
-    Foldable Content[enter image description here][1]
-</details>
         </td>
     </tr>
     <tr>
