@@ -23,7 +23,7 @@ sidebar:
         <td><p><b>Session 1 (Session Chair: TBD)</b></p>
           <il>
           <li> Emanuele Bellini (Technology Innovation Institute, UAE)  <br />   
-            Hands-on cryptanalysis - The DojoCrypt platform and an introduction to CLAASP
+            <i> Hands-on cryptanalysis - The DojoCrypt platform and an introduction to CLAASP </i>i>
             <details>
     <summary> Abstract </summary>
     In this tutorial, we introduce DojoCrypt, an experimental cloud-based platform designed to streamline cryptography and cryptanalysis research and development. Offering a pre-configured environment with powerful tools—including cryptanalysis frameworks (e.g. CLAASP, TAGADA, CASCADA, CryptoSMT), hacking utilities (e.g. John-the-Reaper, Hashcat), mathematical libraries (e.g. SageMath), and AI-powered solutions—DojoCrypt eliminates the complexity of software setup and resource management. 
@@ -31,14 +31,14 @@ To showcase DojoCrypt’s capabilities for both teaching and research, we demons
             </details>
             </li>               
           <li>Juan Grados (Technology Innovation Institute, UAE)    <br />  
-            CLAASP 3.0: automated search of impossible differential, differential-linear and algebraic distinguishers
+            <i> CLAASP 3.0: automated search of impossible differential, differential-linear and algebraic distinguishers </i>i>
             <details>
     <summary> Abstract </summary>
     The search for algebraic, impossible differential, and differential-linear distinguishers is a key topic in symmetric cryptanalysis. Existing automated tools are often highly specialized or lack support for one of these types of distinguishers. In this talk, we will demonstrate through practical examples how the latest version of CLAASP can automatically search for impossible differential and differential-linear distinguishers using state-of-the-art techniques. Specifically, we will showcase methods that use truncated deterministic differentials to find these kind of distinguishers. Additionally, we will show how CLAASP can automatically search for algebraic distinguishers through the use of techniques based on the three-subset division property. 
             </details>
             </li>                
           <li> David Gerault (Technology Innovation Institute, UAE)    <br />  
-            Automating Neural Cryptanalysis     
+            <i> Automating Neural Cryptanalysis  </i>i> 
             <details>
     <summary> Abstract </summary>
     At CRYPTO 2019, Aron Gohr proposed neural networks as a tool for the cryptanalysis of block ciphers. His neural distinguishers are trained to learn to recognize the distribution induced by the encryption of plaintext pairs with a given XOR difference from that of random pairs. In his seminal work, these distinguishers were used to build state-of-the-art, practical key recoveries on round-reduced SPECK32.
