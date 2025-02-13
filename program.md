@@ -28,14 +28,14 @@ sidebar:
     <summary> Abstract </summary>
     In this tutorial, we introduce DojoCrypt, an experimental cloud-based platform designed to streamline cryptography and cryptanalysis research and development. Offering a pre-configured environment with powerful tools—including cryptanalysis frameworks (e.g. CLAASP, TAGADA, CASCADA, CryptoSMT), hacking utilities (e.g. John-the-Reaper, Hashcat), mathematical libraries (e.g. SageMath), and AI-powered solutions—DojoCrypt eliminates the complexity of software setup and resource management. 
 To showcase DojoCrypt’s capabilities for both teaching and research, we demonstrate its integration with the CLAASP library—a SageMath-based suite designed to simplify the analysis of symmetric primitives. After a brief overview of CLAASP, we implement a basic toy cipher and execute various cryptanalysis routines, such as statistical testing, linear/differential trail searches, algebraic modeling, and result visualization, all achieved in a few lines of code.
-            </details>
+            </details> <br /> 
             </li>               
           <li> <b> Juan Grados </b> (Technology Innovation Institute, UAE) <br />  
             <i> CLAASP 3.0: automated search of impossible differential, differential-linear and algebraic distinguishers </i>
             <details>
     <summary> Abstract </summary>
     The search for algebraic, impossible differential, and differential-linear distinguishers is a key topic in symmetric cryptanalysis. Existing automated tools are often highly specialized or lack support for one of these types of distinguishers. In this talk, we will demonstrate through practical examples how the latest version of CLAASP can automatically search for impossible differential and differential-linear distinguishers using state-of-the-art techniques. Specifically, we will showcase methods that use truncated deterministic differentials to find these kind of distinguishers. Additionally, we will show how CLAASP can automatically search for algebraic distinguishers through the use of techniques based on the three-subset division property. 
-            </details>
+            </details> <br /> 
             </li>                
           <li> <b> David Gerault </b> (Technology Innovation Institute, UAE) <br />  
             <i> Automating Neural Cryptanalysis  </i>
@@ -43,7 +43,7 @@ To showcase DojoCrypt’s capabilities for both teaching and research, we demons
     <summary> Abstract </summary>
     At CRYPTO 2019, Aron Gohr proposed neural networks as a tool for the cryptanalysis of block ciphers. His neural distinguishers are trained to learn to recognize the distribution induced by the encryption of plaintext pairs with a given XOR difference from that of random pairs. In his seminal work, these distinguishers were used to build state-of-the-art, practical key recoveries on round-reduced SPECK32.
 At FSE 2023, we presented the AutoND framework, which aims at automating the process of neural cryptanalysis, by eliminating the tedious process of hyperparameters tuning and other cipher-specific optimizations. In this talk, we present the tool, how to unleash its full potential through CLAASP, and how to integrate it with other similar libraries.
-            </details>
+            </details> <br /> 
             </li>
           </il>
         </td>
@@ -61,14 +61,14 @@ At FSE 2023, we presented the AutoND framework, which aims at automating the pro
             <details>
             <summary> Abstract </summary>
             When designing new symmetric block ciphers, assessing their resistance against differential attacks is crucial. A common modern approach is to evaluate truncated differential characteristics (TDCs) and differential characteristics (DCs) to bound the probability of differential distinguishers. Traditionally, these TDCs (or DCs) are computed using declarative models—via CP, SAT, or ILP—whose manual design is complex, error-prone, and demands deep expertise in both cryptography and solver technologies. In this talk, we will discuss Tagada (Tool for Automatic Generation of Abstraction-based Differential Attacks), a generic tool that automatically generates these models from an operational description of the cipher using a bipartite Directed Acyclic Graphs (DAGs) representation. Tagada provides a set of built-in functionalities that allows one to compute TDCs and DCs by giving only the description of the cipher. The talk will be focused on the operation and usage of Tagada, the results we previously had, the strengths and limitations of the library, and the possible improvements.
-            </details>
+            </details> <br /> 
             </li>
           <li> <b> Hosein Hadipour </b> (Ruhr University Bochum, Germany) <br /> 
             <i> Automating Cryptanalysis: Automated Reasoning and Structural Links Between Attacks </i>
             <details>
             <summary> Abstract </summary>
   In this talk, I will discuss how automated reasoning techniques can be applied to efficiently explore cryptanalytic attacks. As an example, I will demonstrate how the guess-and-determine problem can be formulated as a constraint satisfaction or optimization problem. I will then examine the structural links between different cryptanalytic techniques and how these relationships can be leveraged to enhance the efficiency of attack discovery. In particular, I will illustrate how the connection between zero-correlation (resp. boomerang) and integral (resp. differential-linear) attacks enables the use of more efficient methods from one technique to identify the other.
-            </details>
+            </details> <br /> 
           </li>
           </il>
         </td>
@@ -86,28 +86,28 @@ At FSE 2023, we presented the AutoND framework, which aims at automating the pro
             <details>
             <summary> Abstract </summary>
   We will briefly present an overview of the context of symmetric cryptanalysis and its development in the last few years. We will discuss how a reference algorithmic framework for the different attacks and techniques would be very useful, and some of the works that have been done in this direction, plus some of the main many open problems yet to solve.
-            </details>
+            </details> <br /> 
           </li>
           <li>  <b> Ling Song </b> (Jinan University, China) <br /> 
             <i> The key recovery in differential attacks and the automated models </i>
             <details>
             <summary> Abstract </summary>
   In differential cryptanalysis, we identify three critical factors influencing the efficiency of key recovery attacks. First, permitting misaligned boundaries of the distinguisher can expand the search space for the attack, thereby potentially enhancing its effectiveness. Second, probabilistic extensions of the distinguisher—specifically, allowing forward/backward propagation with probabilities below 1 during key recovery—can yield comparable advantages. Third, the strategy of pre-guessing key bits has a significant impact on time complexity, necessitating an optimized guessing strategy to minimize computational costs. To enhance differential cryptanalysis, we propose an automated search framework for byte-oriented block ciphers. This framework simultaneously determines the optimal attack complexity, identifies the used distinguisher, and configures attack parameters in a unified process. We validate our approach by applying it to Deoxys-BC-384 and AES-256, achieving significantly improved results compared to prior works.
-            </details>          
+            </details>  <br /> 
           </li>
           <li>  <b> Léo Perrin </b> (Inria, France) <br /> 
             <i>TBD </i>
             <details>
             <summary> Abstract </summary>
   TBD
-            </details>
+            </details>  <br /> 
           </li>
           <li>  <b> Patrick Derbez </b> (Centre Inria de l'Université de Rennes, France) <br /> 
                       <i> Minimalist model for Impossible Differentials </i>
                       <details>
                       <summary> Abstract </summary>
             In this talk I will present a new MILP modelling to find impossible differential (ID) distinguishers and attacks. Standard models for ID are negative models, in the sense that a differential is impossible if and only if the model has no solution. Our new modelling technique focuses on probable ID, differentials that are probably impossible. While this might lead to false positive, the main advantage is that searching for such probable ID can be achieved through a positive model. This facilitates the search for the best impossible differential attacks without first exhausting all possible ID distinguishers on a target.
-            </details>
+            </details>  <br /> 
           </li>
           </il>
         </td>
@@ -133,14 +133,14 @@ and MILP. The SAT solvers based on these techniques have won several
 gold medals in SAT competitions and the Best Paper award in SAT 2021,
 while the MILP solver has established the latest record for many
 challenging instances in MIPLIB and the Best Paper in CP 2024.
-            </details>
+            </details>   <br /> 
           </li>
           <li>  <b> Maria Eichlseder </b> (Graz University of Technology, Austria) <br /> 
             <i> TBD </i>
             <details>
             <summary> Abstract </summary>
   TBD
-            </details>
+            </details>  <br /> 
           </li>
           <li>  <b> Yosuke Todo </b> (NTT Social Informatics Laboratories, Japan) <br /> 
             <i>Improved Cryptanalysis of ChaCha: Beating PNBs with Bit Puncturing </i>
@@ -156,14 +156,14 @@ Inspired by a puncturing technique proposed at Eurocrypt 2024, we propose a new 
 Unlike PNBs, our method can provide theoretical evaluation without relying on experimental blackbox analysis.
 As a result, we improve the state-of-the-art cryptanalysis against ChaCha (and Salsa).
 We also discuss what is the room of further improvements.
-            </details>
+            </details>  <br /> 
           </li>
           <li>  <b> Thomas Peyrin </b> (Nanyang Technological University, Singapore) <br /> 
             <i> Open Cryptanalysis Platform (OCP) -  A New Collaborative Effort for Automated Cryptanalysis </i>
             <details>
             <summary> Abstract </summary>
   In this talk, we will present an open-source tool to conduct automated cryptanalysis, named Open Cryptanalysis Platform (OCP). The goal of OCP is to provide a common platform for the community to implement/test/use/benchmark automated cryptanalysis techniques, with a focus on ease-of-use and modularity for future usages.  We will explain the basic architecture of OCP and its rationale, as well as currently implemented functionalities. Finally, we will review future short-term and long-term plans and how the community can contribute to OCP. The goal of the platform is to be collaborative, so we welcome all comments on what part of OCP should be modified, or what crucial functionality is needed in priority.
-            </details>
+            </details>  <br /> 
           </li>  
           </il>
         </td>
