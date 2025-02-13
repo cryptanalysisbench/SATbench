@@ -96,10 +96,10 @@ At FSE 2023, we presented the AutoND framework, which aims at automating the pro
             </details>  <br /> 
           </li>
           <li>  <b> Léo Perrin </b> (Inria, France) <br /> 
-            <i>TBD </i>
+            <i>What happens when you *don't* have tools? The case of algebraic cryptanalysis </i>
             <details>
             <summary> Abstract </summary>
-  TBD
+  Generic tools are a necessity if we are to ever provide convincing and simple security arguments. In this talk however, we will discuss another crucial use case for cryptanalysis tools : prototyping. During the design phase of a primitive, it is necessary to be able to quickly check if a design direction is promising. Similarly, when attempting a first cryptanalysis, we need to be able to easily test cryptographic properties. This discussion will be greatly informed by a specific case : that of "algebraic attacks", at least the Gröbner basis-based kind. We will see that the absence of convenient tools to investigate them is a problem, and sketch some ideas for what such tools might provide.
             </details>  <br /> 
           </li>
           <li>  <b> Patrick Derbez </b> (Centre Inria de l'Université de Rennes, France) <br /> 
