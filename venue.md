@@ -13,7 +13,7 @@ sidebar:
 
 SKCAM 2025 will be held in Università degli Studi Roma Tre, in Rome, Italy.  
 
-Address: 
+Address:   
 Università degli Studi Roma Tre,    
 Aula Urbano VIII, Palazzo Argiletum,    
 Via della Madonna dei Monti, 40,    
