@@ -136,10 +136,15 @@ challenging instances in MIPLIB and the Best Paper in CP 2024.
             </details>   <br /> 
           </li>
           <li>  <b> Maria Eichlseder </b> (Graz University of Technology, Austria) <br /> 
-            <i> TBD </i>
+            <i> Challenges in tool-based cryptanalysis </i>
             <details>
             <summary> Abstract </summary>
-  TBD
+  We will take a bird's-eye view on the progress made in automated, 
+tool-based cryptanalysis in the last years, and identify challenges for 
+the area going forward.
+We will discuss how (and why) different tools model ciphers as well as 
+attack flows, and what this means for efforts towards a more uniform 
+platform for automated cryptanalysis.
             </details>  <br /> 
           </li>
           <li>  <b> Yosuke Todo </b> (NTT Social Informatics Laboratories, Japan) <br /> 
