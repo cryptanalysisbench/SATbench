@@ -18,7 +18,7 @@ SKCAM is held to promote research on all domains related to the automation and m
 
 The program contains invited talks and discussion sessions. Any researcher is welcome to contact us to participate.   
 
-<p style="color:Tomato;"> You can attend the workshop online through </p> [this Teams meeting room](https://teams.microsoft.com/l/meetup-join/19%3aU6LcD1bqKXgQ2yg0Z9YZvFheRLu5u6wm9t4rN2y-1Gk1%40thread.tacv2/1741947818543?context=%7b%22Tid%22%3a%22ffb4df68-f464-458c-a546-00fb3af66f6a%22%2c%22Oid%22%3a%2211647586-a255-4c31-b3ea-1a3032a3b0a8%22%7d)  <p style="color:Tomato;"> (ID: 364 767 624 338   Password: X8qN6Z9W) </p>
+<p style="color:Tomato;"> You can attend the workshop online through <a href="[url](https://teams.microsoft.com/l/meetup-join/19%3aU6LcD1bqKXgQ2yg0Z9YZvFheRLu5u6wm9t4rN2y-1Gk1%40thread.tacv2/1741947818543?context=%7b%22Tid%22%3a%22ffb4df68-f464-458c-a546-00fb3af66f6a%22%2c%22Oid%22%3a%2211647586-a255-4c31-b3ea-1a3032a3b0a8%22%7d)">this Teams meeting room</a> (ID: 364 767 624 338   Password: X8qN6Z9W) </p>
 
 ## Contact information
 
