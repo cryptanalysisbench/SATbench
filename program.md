@@ -31,13 +31,15 @@ To showcase DojoCrypt’s capabilities for both teaching and research, we demons
             </details> <br /> 
             </li>               
           <li> <b> Juan Grados </b> (Technology Innovation Institute, UAE) <br />  <a href="https://skcamworkshop.github.io/skcam2025/assets/docs/slides/Grados_slides.pdf"><img src="https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png" alt="slides"></a> 
-            <i> CLAASP 3.0: automated search of impossible differential, differential-linear and algebraic distinguishers </i>
+            <i> CLAASP 3.0: automated search of differential-linear and algebraic distinguishers </i>
             <details>
     <summary> Abstract </summary>
     The search for algebraic, impossible differential, and differential-linear distinguishers is a key topic in symmetric cryptanalysis. Existing automated tools are often highly specialized or lack support for one of these types of distinguishers. In this talk, we will demonstrate through practical examples how the latest version of CLAASP can automatically search for impossible differential and differential-linear distinguishers using state-of-the-art techniques. Specifically, we will showcase methods that use truncated deterministic differentials to find these kind of distinguishers. Additionally, we will show how CLAASP can automatically search for algebraic distinguishers through the use of techniques based on the three-subset division property. 
             </details> <br /> 
             </li>                
-          <li> <b> David Gerault </b> (Technology Innovation Institute, UAE) <br />  <a href="https://skcamworkshop.github.io/skcam2025/assets/docs/slides/Gerault_slides.pdf"><img src="https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png" alt="slides"></a> 
+          <li> <b> David Gerault </b> (Technology Innovation Institute, UAE) <br />  <a href="https://skcamworkshop.github.io/skcam2025/assets/docs/slides/Gerault_slides1.pdf"><img src="https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png" alt="slides"></a> 
+            <i> CLAASP 3.0: automated search of impossible differential  </i>
+            <a href="https://skcamworkshop.github.io/skcam2025/assets/docs/slides/Gerault_slides2.pdf"><img src="https://thomaspeyrin.github.io/web/assets/images/pdf_icon_small.png" alt="slides"></a> 
             <i> Automating Neural Cryptanalysis  </i>
             <details>
     <summary> Abstract </summary>
