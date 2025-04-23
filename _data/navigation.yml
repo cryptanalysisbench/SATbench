@@ -1,20 +1,9 @@
 main:
   - title: "Home"
     url: /
-  - title: "Program"
-    url: /program/
-  - title: "Venue"
-    url: /venue/
+  - title: "Rankings"
+    url: /rankings/
+  - title: "Benchmarks"
+    url: /benchmarks/
 
-docs:    
-  - title: Home
-    url: /
-  - title: Program
-    url: /program/
-  - title: Venue and Travel
-    url: /venue/
-  - title: Registration
-    url: /registration/
-  - title: Previous Workshops 
-    url: "https://skcamworkshop.github.io/SKCAM/"
 
