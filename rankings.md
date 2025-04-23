@@ -13,6 +13,15 @@ Updated the 24/04/2025.
 
 # Fixed-model Free-Solver
 
+| Target | Model    | Solver  | Time (s)   | Optimization methods |
+| --------| -------- | ------- |------- | ------- |
+| SPECK   | [model1](/models/SPECK/test)  | STP  | 10  |  Cryptominisat 8 threads | 
+| SPECK   | [model1](/models/SPECK/test)  | STP  | 40  |    | 
+| SPECK   | [model2](/models/SPECK/test)  | STP  | 30  |   | 
+| ASCON   | [model1](/models/ASCON/test)  | Gurobi  | 20  |   | 
+| KECCAK   | [model1](/models/KECCAK/test)  | CadiCaL  | 30  |    | 
+| MD   | [model1](/models/MD/test)  | STP  | 30  |    | 
+
 # Free-model Fixed-Solver
 
 # Free-model Free-Solver
