@@ -15,10 +15,10 @@ Welcome to the home page of the **SAT Cryptanalysis Benchmark Suite**. We propos
 ## [Benchmarks](/benchmarks)
 
 Our benchmarks are divided into:
-* [Differential paths for SPECK block cipher](/SPECK)
-* [number of active Sboxes for the ASCON permutation](/ASCON)
-* [number of active Sboxes for the KECCAK permutation](/KECCAK)
-* [MD hash collision problem](/MD)
+* [Differential paths for SPECK block cipher](/benchmarks/SPECK.md)
+* [number of active Sboxes for the ASCON permutation](/benchmarks/ASCON.md)
+* [number of active Sboxes for the KECCAK permutation](/benchmarks/KECCAK.md)
+* [MD hash collision problem](/benchmarks/MD.md)
 * Others ?
 
 
