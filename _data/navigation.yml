@@ -23,11 +23,10 @@ docs:
   - title: Rankings
     url: /rankings/
     children:
-      - title: "Free model - Fixed Solver"
-        url: /rankings/freemodel_fixedsolver
       - title: "Fixed model - Free Solver"
-        url: /rankings/fixedmodel_freesolver
+        url: /rankings.md#fixed-model-free-solver
+      - title: "Free model - Fixed Solver"
+        url: /rankings.md#free-model-fixed-solver
       - title: "Free model - Free Solver"
-        url: /rankings/freemodel_freesolver
-
+        url: /rankings.md#free-model-free-solver
 
