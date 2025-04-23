@@ -6,4 +6,27 @@ main:
   - title: "Benchmarks"
     url: /benchmarks/
 
+docs:    
+  - title: Home
+    url: /
+  - title: Rankings
+    url: /rankings/
+    children:
+      - title: "Free model - Fixed Solver"
+        url: /rankings/freemodel_fixedsolver
+      - title: "Fixed model - Free Solver"
+        url: /rankings/fixedmodel_freesolver
+      - title: "Free model - Free Solver"
+        url: /rankings/freemodel_freesolver
+  - title: Benchmarks
+    url: /benchmarks/
+    children:
+      - title: "SPECK"
+        url: /benchmarks/SPECK
+      - title: "ASCON"
+        url: /benchmarks/ASCON
+      - title: "KECCAK"
+        url: /benchmarks/KECCAK
+      - title: "MD"
+        url: /benchmarks/MD
 
