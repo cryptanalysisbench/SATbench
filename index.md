@@ -28,10 +28,7 @@ We maintain a ranking in three different categories:
 * [free model and fixed solver](/freedmodel_fixedsolver)
 * [free model and free solver](/freedmodel_freesolver)
 
-Server Configuration:
-* System：linux 5.4.18-35-generic
-* CPU：Hygon C86 3250 8-core Processor
-* RAM：8GB
+Server Configuration: linux 5.4.18-35-generic on a Hygon C86 3250 8-core Processor with 8GB or RAM
 
 
 ## Contacts
@@ -40,7 +37,7 @@ Server Configuration:
 <li>Emanuele Bellini (Technology Innovation Institute, Abu Dhabi, UAE)</li>
 <li>Shaowei Cai (Shandong University, Jinan, China)</li>
 <li>Kai Hu (Shandong University, Jinan, China)</li>
-<li>[Thomas Peyrin](mailto:thomas.peyrin@ntu.edu.sg)  (Nanyang Technological University, Singapore, Singapore)</li>
+<li>[Thomas Peyrin](thomas.peyrin@ntu.edu.sg)  (Nanyang Technological University, Singapore, Singapore)</li>
 <li>Meiqin Wang (Shandong University, Jinan, China)</li>
 </ul>
 
