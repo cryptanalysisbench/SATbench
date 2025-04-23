@@ -25,11 +25,11 @@ Our benchmarks are divided into:
 ## [Rankings](/rankings)
 
 We maintain a ranking in three different categories:
-* [fixed model and free solver](/fixedmodel_freesolver)
-* [free model and fixed solver](/freedmodel_fixedsolver)
-* [free model and free solver](/freedmodel_freesolver)
+* [Fixed model and free solver](/rankings.md#fixed-model-free-solver)
+* [Free model and fixed solver](/rankings.md#free-model-fixed-solver)
+* [Free model and free solver](/rankings.md#free-model-free-solver)
 
-Server Configuration: linux 5.4.18-35-generic on a Hygon C86 3250 8-core Processor with 8GB or RAM
+**Server Configuration:** linux 5.4.18-35-generic on a Hygon C86 3250 8-core Processor with 8GB or RAM
 
 
 ## Contacts
