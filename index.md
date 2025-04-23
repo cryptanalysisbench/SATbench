@@ -12,17 +12,17 @@ sidebar:
 Welcome to the home page of the **SAT Cryptanalysis Benchmark Suite**. We propose SATisfiability (SAT) instances based on symmetric-key cryptanalysis problems. 
 
 
-## Benchmarks
+## [Benchmarks](/benchmarks)
 
 Our benchmarks are divided into:
-* Differential paths for SPECK block cipher
-* number of active Sboxes for the ASCON permutation
-* number of active Sboxes for the KECCAK permutation 
-* MD hash collision problem
+* [Differential paths for SPECK block cipher](/SPECK)
+* [number of active Sboxes for the ASCON permutation](/ASCON)
+* [number of active Sboxes for the KECCAK permutation](/KECCAK)
+* [MD hash collision problem](/MD)
 * Others ?
 
 
-## Rankings
+## [Rankings](/rankings)
 
 We maintain a ranking in three different categories:
 * [fixed model and free solver](/fixedmodel_freesolver)
