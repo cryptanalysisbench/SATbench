@@ -6,7 +6,6 @@ sidebar:
   - title: " "
     image: /assets/images/logo.png
     image_alt: "image"
-    nav: "docs"
 ---
 
 Welcome to the home page of the **SAT Cryptanalysis Benchmark Suite**. We propose SATisfiability (SAT) instances based on symmetric-key cryptanalysis problems. 
@@ -28,6 +27,11 @@ We maintain a ranking in three different categories:
 * [fixed model and free solver](/fixedmodel_freesolver)
 * [free model and fixed solver](/freedmodel_fixedsolver)
 * [free model and free solver](/freedmodel_freesolver)
+
+Server Configuration:
+* System：linux 5.4.18-35-generic
+* CPU：Hygon C86 3250 8-core Processor
+* RAM：8GB
 
 
 ## Contacts
