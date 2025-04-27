@@ -20,4 +20,7 @@ For bounds against differential cryptanalysis,it has been proven that there exis
 | Target | Model    | Solver  | Time (s)   | Optimization methods |
 | --------| -------- | ------- |------- | ------- |
 | ASCON   | [R3_A14_Seq](/models/ASCON/R3_A14_Seq.cnf)  | kissat  | 2449  |   | 
+| ASCON   | [R3_A14_kmTotal](/models/ASCON/R3_A14_kmTotal.cnf)  | kissat  | 2618  |    | 
+| ASCON   | [R3_A14_Sort](/models/ASCON/R3_A14_Sort.cnf)  | kissat  | 3529  |    | 
+| ASCON   | [R3_A14_mTotal](/models/ASCON/R3_A14_mTotal.cnf)  | kissat  | 3531  |    | 
 | ASCON   | [R3_A14_Total](/models/ASCON/R3_A14_Total.cnf)  | kissat  | 3999  |    | 
