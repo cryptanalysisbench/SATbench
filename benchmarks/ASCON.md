@@ -15,7 +15,7 @@ Here is the description of the benchmarks for ASCON.
 
 For the fixed model, we prepared [model1](\models\ASCON\test) 
 
-For bounds against differential cryptanalysis,it has been proven that there exist at least 15 active S-boxes for 3 rounds.We provide some fixed models of searching for the minimum number of active S-boxes for 3 rounds.We list them here:
+For bounds against differential cryptanalysis,it has been proven that there exist at least 15 active S-boxes for 3 rounds while it's 13 for bounds against linear cryptanalysis.We provide some fixed models of searching for the minimum number of active S-boxes for 3 rounds.We list them here:
 
 | Target | Model    | Solver  | Time (s)   | Optimization methods |
 | --------| -------- | ------- |------- | ------- |
@@ -24,6 +24,7 @@ For bounds against differential cryptanalysis,it has been proven that there exis
 | ASCON   | [Diff_R3_A14_Sort](/models/ASCON/Diff_R3_A14_Sort.cnf)  | kissat  | 3529  |    | 
 | ASCON   | [Diff_R3_A14_mTotal](/models/ASCON/Diff_R3_A14_mTotal.cnf)  | kissat  | 3531  |    | 
 | ASCON   | [Diff_R3_A14_Total](/models/ASCON/Diff_R3_A14_Total.cnf)  | kissat  | 3999  |    | 
+| ASCON   | [Diff_R3_A14_Cardnet](/models/ASCON/Diff_R3_A14_Cardnet.cnf)  | kissat  | 6659  |    |
 
 | Target | Model    | Solver  | Time (s)   | Optimization methods |
 | --------| -------- | ------- |------- | ------- |
