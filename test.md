@@ -13,4 +13,4 @@ Here is the description of the benchmarks for KECCAK.
 
 **Goal:** find the number of active Sboxes for ... 
 
-For the fixed model, we prepared [model1](\models\KECCAK\test) 
+For the fixed model, we prepared [model1](/models/KECCAK/test) 
