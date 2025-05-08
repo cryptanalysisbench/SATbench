@@ -20,6 +20,7 @@ Our benchmarks are divided into:
 * [number of active Sboxes for the KECCAK permutation](/benchmarks/KECCAK.md)
 * [MD hash collision problem](/benchmarks/MD.md)
 * Others ?
+* [test](/test.md)
 
 
 ## [Rankings](/rankings)
