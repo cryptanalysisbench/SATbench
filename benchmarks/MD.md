@@ -13,7 +13,7 @@ Here is the description of the benchmarks for RIPEMD-160.
 
 **Goal:** find the highest probability of the right branch of 42-step RIPEMD-160.
 
-For the fixed model and free solver, we prepared the [test.smt](../models/MD/42step_right.smt2) for SMT solvers and [test.cnf](../models/MD/42step_right.cnf) for SAT solvers.
+For the fixed model and free solver, we prepared the [test.smt](../models/MD/test.smt2) for SMT solvers and [test.cnf](../models/MD/42step_right.cnf) for SAT solvers.
 
 For RIPEMD-160 hash function, the most commonly used method for searching differential characteristics is segmented search and concatenation, which often leads to suboptimal characteristics. Therefore, we would like to know if different solvers can be used to accelerate the fixed model and optimize the existing analysis results.
 
