@@ -19,16 +19,22 @@ For RIPEMD-160 hash function, the most commonly used method for searching differ
 
 Server Configuration: Ubuntu AMD EPYC 7302 16-Core Processor.
 
-| Target | Model    | SMT Solver  | Command | Time (s)  | Optimization methods |
-| --------| -------- | ------- |------- | ------- | ------- |
-| RIPEMD-160 | [test.smt](../models/MD/42step_right.smt2)  | stp  | time stp -p test.smt2 > test.txt & | killed  |   |
-| RIPEMD-160 | [test.smt](../models/MD/42step_right.smt2)  | boolector | time boolector –m test.smt2 > test.txt & |  > 259200  |    |
-| RIPEMD-160 | [test.smt](../models/MD/42step_right.smt2)  | bitwuzla | time bitwuzla --print-model test.smt2  > test.txt & | 108598  |    | 
+### SMT Solver Results
 
+| Target      | Model                                             | SMT Solver | Command                                                  | Time (s)    | Optimization Methods |
+|-------------|---------------------------------------------------|-------------|-----------------------------------------------------------|-------------|-----------------------|
+| RIPEMD-160  | [test.smt](../models/MD/42step_right.smt2)       | stp         | `time stp -p test.smt2 > test.txt &`                     | killed      |                       |
+| RIPEMD-160  | [test.smt](../models/MD/42step_right.smt2)       | boolector   | `time boolector –m test.smt2 > test.txt &`               | > 259200    |                       |
+| RIPEMD-160  | [test.smt](../models/MD/42step_right.smt2)       | bitwuzla    | `time bitwuzla --print-model test.smt2 > test.txt &`     | 108598      |                       |
 
-| Target | Model    | SAT Solver  | Command | Time (s)  | Optimization methods |
-| --------| -------- | ------- |------- | ------- | ------- |
-| RIPEMD-160 | [test.cnf](../models/MD/42step_right.cnf)  | cryptominisat5 | cryptominisat5 test.cnf > test.txt | 30883  |   |
-| RIPEMD-160 | [test.cnf](../models/MD/42step_right.cnf)  | cadical | cadical test.cnf > test.txt |  > 604800 |    |
-| RIPEMD-160 | [test.cnf](../models/MD/42step_right.cnf)  | kissat | kissat test.cnf > test.txt | 32764  |    | 
+---
+
+### SAT Solver Results
+
+| Target      | Model                                             | SAT Solver      | Command                                      | Time (s)    | Optimization Methods |
+|-------------|---------------------------------------------------|------------------|-----------------------------------------------|-------------|-----------------------|
+| RIPEMD-160  | [test.cnf](../models/MD/42step_right.cnf)         | cryptominisat5   | `cryptominisat5 test.cnf > test.txt`          | 30883       |                       |
+| RIPEMD-160  | [test.cnf](../models/MD/42step_right.cnf)         | cadical          | `cadical test.cnf > test.txt`                 | > 604800    |                       |
+| RIPEMD-160  | [test.cnf](../models/MD/42step_right.cnf)         | kissat           | `kissat test.cnf > test.txt`                  | 32764       |                       |
+
 
