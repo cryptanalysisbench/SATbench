@@ -1,3 +1,4 @@
+---
 layout: single
 toc: false
 classes: wide
