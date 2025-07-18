@@ -23,13 +23,13 @@ Server Configuration: Ubuntu AMD EPYC 7302 16-Core Processor.
 
 | Target      | Model                                             | SMT Solver  |  threads                 |Command                                                              | Time (s)        | Optimization Methods  |
 |-------------|---------------------------------------------------|-------------|--------------------------|---------------------------------------------------------------------|-----------------|---------------------- |
-| SHA-256     | [test.smt2](../models/MD/test.smt2)               | stp         | 1                        |`time stp -p test.smt2 --cryptominisat > test.txt &`                 | killed          |                       |
-| SHA-256     | [test.smt2](../models/MD/test.smt2)               | stp         | 4                        |`time stp -p test.smt2 --cryptominisat > test.txt &`                 | killed          |                       |
-| SHA-256     | [test.smt2](../models/MD/test.smt2)               | stp         | 8                        |`time stp -p test.smt2 --cryptominisat > test.txt &`                 | killed          |                       |
-| SHA-256     | [test.smt2](../models/MD/test.smt2)               | boolector   | 1                        |`time boolector –m test.smt2 > test.txt &`                           | > 259200        |                       |
-| SHA-256     | [test.smt2](../models/MD/test.smt2)               | bitwuzla    | 1                        |`time bitwuzla --print-model test.smt2 > test.txt &`                 | 108598          |                       |
-| SHA-256     | [test.smt2](../models/MD/test.smt2)               | bitwuzla    | 4                        |`time bitwuzla --print-model test.smt2 > test.txt &`                 | 108598          |                       |
-| SHA-256     | [test.smt2](../models/MD/test.smt2)               | bitwuzla    | 8                        |`time bitwuzla --print-model test.smt2 > test.txt &`                 | 108598          |                       |
+| SHA-256     | [test.smt2](../models/MD/test.smt2)               | stp         | 1                        |`time stp -p test.smt2 --cryptominisat > test.txt &`                 |          |                       |
+| SHA-256     | [test.smt2](../models/MD/test.smt2)               | stp         | 4                        |`time stp -p test.smt2 --cryptominisat > test.txt &`                 |           |                       |
+| SHA-256     | [test.smt2](../models/MD/test.smt2)               | stp         | 8                        |`time stp -p test.smt2 --cryptominisat > test.txt &`                 |           |                       |
+| SHA-256     | [test.smt2](../models/MD/test.smt2)               | boolector   | 1                        |`time boolector –m test.smt2 > test.txt &`                           |         |                       |
+| SHA-256     | [test.smt2](../models/MD/test.smt2)               | bitwuzla    | 1                        |`time bitwuzla --print-model test.smt2 > test.txt &`                 |           |                       |
+| SHA-256     | [test.smt2](../models/MD/test.smt2)               | bitwuzla    | 4                        |`time bitwuzla --print-model test.smt2 > test.txt &`                 |           |                       |
+| SHA-256     | [test.smt2](../models/MD/test.smt2)               | bitwuzla    | 8                        |`time bitwuzla --print-model test.smt2 > test.txt &`                 |           |                       |
 
 ---
 
@@ -37,10 +37,10 @@ Server Configuration: Ubuntu AMD EPYC 7302 16-Core Processor.
 
 | Target      | Model                                             | SAT Solver       | threads                |Command                                        | Time (s)       | Optimization Methods |
 |-------------|---------------------------------------------------|------------------|------------------------|-----------------------------------------------|----------------|-----------------------|
-| SHA-256     | [test.cnf](../models/MD/42step_right.cnf)         | cryptominisat5   | 1                      | `cryptominisat5 test.cnf > test.txt`          | 30883          |                       |
-| SHA-256     | [test.cnf](../models/MD/42step_right.cnf)         | cryptominisat5   | 4                      | `cryptominisat5 -t 4 test.cnf > test.txt`     | 30883          |                       |
-| SHA-256     | [test.cnf](../models/MD/42step_right.cnf)         | cryptominisat5   | 8                      | `cryptominisat5 -t 8 test.cnf > test.txt`     | 30883          |                       |
-| SHA-256     | [test.cnf](../models/MD/42step_right.cnf)         | cadical          | 1                      | `cadical test.cnf > test.txt`                 | > 604800       |                       |
-| SHA-256     | [test.cnf](../models/MD/42step_right.cnf)         | kissat           | 1                      | `kissat test.cnf > test.txt`                  | 32764          |                       |
+| SHA-256     | [test.cnf](../models/MD/42step_right.cnf)         | cryptominisat5   | 1                      | `cryptominisat5 test.cnf > test.txt`          |           |                       |
+| SHA-256     | [test.cnf](../models/MD/42step_right.cnf)         | cryptominisat5   | 4                      | `cryptominisat5 -t 4 test.cnf > test.txt`     |           |                       |
+| SHA-256     | [test.cnf](../models/MD/42step_right.cnf)         | cryptominisat5   | 8                      | `cryptominisat5 -t 8 test.cnf > test.txt`     |           |                       |
+| SHA-256     | [test.cnf](../models/MD/42step_right.cnf)         | cadical          | 1                      | `cadical test.cnf > test.txt`                 |        |                       |
+| SHA-256     | [test.cnf](../models/MD/42step_right.cnf)         | kissat           | 1                      | `kissat test.cnf > test.txt`                  |           |                       |
 
 
