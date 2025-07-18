@@ -22,7 +22,7 @@ Server Configuration: Ubuntu AMD EPYC 7302 16-Core Processor.
 ### SMT Solver Results
 
 | Target      | Model                                             | SMT Solver  |  threads                 |Command                                                              | Time (s)        | Optimization Methods  |
-|-------------|---------------------------------------------------|-------------|--------------------------|---------------------------------------------------------------------|-----------------|---------------------- |
+|:-----------:|:-------------------------------------------------:|:-----------:|:--------:|:----------------------------------------------------------------:|:--------:|:----------------------:|
 | SHA-256     | [test.smt2](../models/MD/test.smt2)               | stp         | 1                        |`time stp -p test.smt2 --cryptominisat > test.txt &`                 |          |                       |
 | SHA-256     | [test.smt2](../models/MD/test.smt2)               | stp         | 4                        |`time stp -p test.smt2 --cryptominisat > test.txt &`                 |           |                       |
 | SHA-256     | [test.smt2](../models/MD/test.smt2)               | stp         | 8                        |`time stp -p test.smt2 --cryptominisat > test.txt &`                 |           |                       |
