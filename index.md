@@ -19,6 +19,7 @@ Our benchmarks are divided into:
 * [number of active Sboxes for the ASCON permutation](/benchmarks/ASCON.md)
 * [number of active Sboxes for the KECCAK permutation](/benchmarks/KECCAK.md)
 * [MD hash collision problem](/benchmarks/MD.md)
+* [SHA hash collision problem](/benchmarks/SHA.md)
 * Others 123?
 * [test](/test.md)
 
