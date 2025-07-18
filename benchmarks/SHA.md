@@ -36,7 +36,7 @@ Server Configuration: Ubuntu AMD EPYC 7302 16-Core Processor.
 ### SAT Solver Results
 
 | Target      | Model                                             | SAT Solver       | threads                |Command                                        | Time (s)       | Optimization Methods |
-|-------------|---------------------------------------------------|------------------|------------------------|-----------------------------------------------|----------------|-----------------------|
+|:-----------:|:-------------------------------------------------:|:-----------:|:--------:|:----------------------------------------------------------------:|:--------:|:----------------------:|
 | SHA-256     | [test.cnf](../models/MD/42step_right.cnf)         | cryptominisat5   | 1                      | `cryptominisat5 test.cnf > test.txt`          |           |                       |
 | SHA-256     | [test.cnf](../models/MD/42step_right.cnf)         | cryptominisat5   | 4                      | `cryptominisat5 -t 4 test.cnf > test.txt`     |           |                       |
 | SHA-256     | [test.cnf](../models/MD/42step_right.cnf)         | cryptominisat5   | 8                      | `cryptominisat5 -t 8 test.cnf > test.txt`     |           |                       |
